@@ -11,6 +11,16 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   secondary-background-color: {{ secondary_background_color }}
   divider-color: {{ divider_color }}  # from Apple systemGray {{ which }} mode
   accent-color: rgba(255, 159, 9, 1)
+  # RGB Color Variants (required for modern HA)
+  rgb-primary-color: {{ rgb_primary_color }}
+  rgb-accent-color: 255, 159, 9
+  rgb-primary-text-color: {{ rgb_primary_text_color }}
+  rgb-secondary-text-color: {{ rgb_secondary_text_color }}
+  # Material Design Component Variables
+  mdc-theme-primary: var(--primary-color)
+  mdc-theme-secondary: var(--accent-color)
+  mdc-theme-on-primary: white
+  mdc-theme-text-primary-on-background: var(--primary-text-color)
   # Text
   primary-text-color: {{ primary_text_color }}
   secondary-text-color: {{ secondary_text_color }}
@@ -66,6 +76,16 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   paper-dialog-background-color: {{ paper_dialog_background_color }}  # e.g., background of more-info
   paper-item-icon-color: {{ paper_item_icon_color }}  # also should mini-media-player icon white (but doesn't work by itself)
   more-info-header-background: {{ more_info_header_background }}
+  # Material Design Select/Dropdown (for automation editor, action dialogs)
+  mdc-select-fill-color: var(--card-background-color)
+  mdc-select-ink-color: var(--primary-text-color)
+  mdc-select-label-ink-color: var(--secondary-text-color)
+  mdc-select-dropdown-icon-color: var(--secondary-text-color)
+  mdc-select-idle-line-color: var(--divider-color)
+  mdc-select-hover-line-color: var(--primary-color)
+  # Dialog/Modal Styling
+  mdc-dialog-scrim-color: rgba(0, 0, 0, 0.5)
+  dialog-backdrop-filter: blur(10px)
   lumo-body-text-color: var(--primary-text-color)  # see https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/42
   app-header-background-color: {{ app_header_background_color }}
   markdown-code-background-color: {{ markdown_code_background_color }}
