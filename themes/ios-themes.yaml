@@ -23,6 +23,11 @@ ios-light-mode-blue-red-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -132,6 +137,11 @@ ios-light-mode-blue-red:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -241,6 +251,11 @@ ios-dark-mode-blue-red-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -350,6 +365,11 @@ ios-dark-mode-blue-red:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -459,6 +479,11 @@ ios-light-mode-dark-blue-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -568,6 +593,11 @@ ios-light-mode-dark-blue:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -677,6 +707,11 @@ ios-dark-mode-dark-blue-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -786,6 +821,11 @@ ios-dark-mode-dark-blue:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -895,6 +935,11 @@ ios-light-mode-dark-green-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -1004,6 +1049,11 @@ ios-light-mode-dark-green:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -1113,6 +1163,11 @@ ios-dark-mode-dark-green-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -1222,6 +1277,11 @@ ios-dark-mode-dark-green:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -1331,6 +1391,11 @@ ios-light-mode-light-blue-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -1440,6 +1505,11 @@ ios-light-mode-light-blue:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -1549,6 +1619,11 @@ ios-dark-mode-light-blue-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -1658,6 +1733,11 @@ ios-dark-mode-light-blue:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -1767,6 +1847,11 @@ ios-light-mode-light-green-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -1876,6 +1961,11 @@ ios-light-mode-light-green:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -1985,6 +2075,11 @@ ios-dark-mode-light-green-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -2094,6 +2189,11 @@ ios-dark-mode-light-green:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -2203,6 +2303,11 @@ ios-light-mode-orange-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -2312,6 +2417,11 @@ ios-light-mode-orange:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -2421,6 +2531,11 @@ ios-dark-mode-orange-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -2530,6 +2645,11 @@ ios-dark-mode-orange:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -2639,6 +2759,11 @@ ios-light-mode-red-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -2748,6 +2873,11 @@ ios-light-mode-red:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
@@ -2857,6 +2987,11 @@ ios-dark-mode-red-alternative:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
@@ -2966,6 +3101,11 @@ ios-dark-mode-red:
   mdc-theme-secondary: var(--accent-color)
   mdc-theme-on-primary: white
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
