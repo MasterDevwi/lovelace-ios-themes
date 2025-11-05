@@ -26,6 +26,7 @@ ios-light-mode-blue-red-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -140,6 +141,7 @@ ios-light-mode-blue-red:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -254,6 +256,7 @@ ios-dark-mode-blue-red-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -368,6 +371,7 @@ ios-dark-mode-blue-red:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -482,6 +486,7 @@ ios-light-mode-dark-blue-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -596,6 +601,7 @@ ios-light-mode-dark-blue:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -710,6 +716,7 @@ ios-dark-mode-dark-blue-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -824,6 +831,7 @@ ios-dark-mode-dark-blue:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -938,6 +946,7 @@ ios-light-mode-dark-green-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1052,6 +1061,7 @@ ios-light-mode-dark-green:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1166,6 +1176,7 @@ ios-dark-mode-dark-green-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1280,6 +1291,7 @@ ios-dark-mode-dark-green:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1394,6 +1406,7 @@ ios-light-mode-light-blue-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1508,6 +1521,7 @@ ios-light-mode-light-blue:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1622,6 +1636,7 @@ ios-dark-mode-light-blue-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1736,6 +1751,7 @@ ios-dark-mode-light-blue:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1850,6 +1866,7 @@ ios-light-mode-light-green-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -1964,6 +1981,7 @@ ios-light-mode-light-green:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2078,6 +2096,7 @@ ios-dark-mode-light-green-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2192,6 +2211,7 @@ ios-dark-mode-light-green:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2306,6 +2326,7 @@ ios-light-mode-orange-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2420,6 +2441,7 @@ ios-light-mode-orange:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2534,6 +2556,7 @@ ios-dark-mode-orange-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2648,6 +2671,7 @@ ios-dark-mode-orange:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2762,6 +2786,7 @@ ios-light-mode-red-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2876,6 +2901,7 @@ ios-light-mode-red:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -2990,6 +3016,7 @@ ios-dark-mode-red-alternative:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
@@ -3104,6 +3131,7 @@ ios-dark-mode-red:
   # Button Colors (HA 2025.x)
   ha-color-fill-primary-loud-active: var(--primary-color)
   ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: var(--secondary-background-color)
   button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
