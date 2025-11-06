@@ -31,6 +31,18 @@ mdc_dialog_heading_ink_color:
 dialog_color:
   dark: white
   light: black
+ha_dialog_text_color:
+  dark: white
+  light: black
+material_body_text_color:
+  dark: white
+  light: black
+mdc_theme_text_primary_on_light:
+  dark: white
+  light: black
+body_text_color:
+  dark: white
+  light: black
 paper_item_icon_color:
   dark: white
   light: '#333333'
