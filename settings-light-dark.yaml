@@ -103,3 +103,6 @@ wa_color_brand_on_quiet:
 wa_color_brand_fill_normal_hover:
   dark: rgba(3, 169, 244, 0.6)
   light: rgba(3, 169, 244, 0.6)
+ha_color_fill_primary_normal_hover:
+  dark: rgba(3, 169, 244, 0.6)
+  light: rgba(3, 169, 244, 0.6)

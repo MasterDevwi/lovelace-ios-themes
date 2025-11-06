@@ -18,6 +18,7 @@ ios-light-mode-blue-red-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -133,6 +134,7 @@ ios-light-mode-blue-red:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -248,6 +250,7 @@ ios-dark-mode-blue-red-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -363,6 +366,7 @@ ios-dark-mode-blue-red:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -478,6 +482,7 @@ ios-light-mode-dark-blue-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -593,6 +598,7 @@ ios-light-mode-dark-blue:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -708,6 +714,7 @@ ios-dark-mode-dark-blue-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -823,6 +830,7 @@ ios-dark-mode-dark-blue:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -938,6 +946,7 @@ ios-light-mode-dark-green-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1053,6 +1062,7 @@ ios-light-mode-dark-green:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1168,6 +1178,7 @@ ios-dark-mode-dark-green-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1283,6 +1294,7 @@ ios-dark-mode-dark-green:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1398,6 +1410,7 @@ ios-light-mode-light-blue-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1513,6 +1526,7 @@ ios-light-mode-light-blue:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1628,6 +1642,7 @@ ios-dark-mode-light-blue-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1743,6 +1758,7 @@ ios-dark-mode-light-blue:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1858,6 +1874,7 @@ ios-light-mode-light-green-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -1973,6 +1990,7 @@ ios-light-mode-light-green:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -2088,6 +2106,7 @@ ios-dark-mode-light-green-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -2203,6 +2222,7 @@ ios-dark-mode-light-green:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -2318,6 +2338,7 @@ ios-light-mode-orange-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -2433,6 +2454,7 @@ ios-light-mode-orange:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -2548,6 +2570,7 @@ ios-dark-mode-orange-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -2663,6 +2686,7 @@ ios-dark-mode-orange:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -2778,6 +2802,7 @@ ios-light-mode-red-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -2893,6 +2918,7 @@ ios-light-mode-red:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -3008,6 +3034,7 @@ ios-dark-mode-red-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
@@ -3123,6 +3150,7 @@ ios-dark-mode-red:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.6)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
   wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
