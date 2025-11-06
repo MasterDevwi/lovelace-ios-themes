@@ -62,3 +62,34 @@ code_editor_background_color:
 ha_color_border_neutral_quiet:
   dark: rgba(152, 152, 152, 0.3)
   light: rgba(152, 152, 152, 0.3)
+# Button and gradient variables (HA default blue)
+rgb_primary_color:
+  dark: 3, 169, 244
+  light: 3, 169, 244
+wa_color_brand_fill_loud:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_fill_normal:
+  dark: rgba(3, 169, 244, 0.85)
+  light: rgba(3, 169, 244, 0.85)
+wa_color_brand_fill_quiet:
+  dark: rgba(3, 169, 244, 0.15)
+  light: rgba(3, 169, 244, 0.15)
+wa_color_brand_border_loud:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_border_normal:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_border_quiet:
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
+wa_color_brand_on_loud:
+  dark: white
+  light: white
+wa_color_brand_on_normal:
+  dark: white
+  light: white
+wa_color_brand_on_quiet:
+  dark: white
+  light: white

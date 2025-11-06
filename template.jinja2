@@ -13,6 +13,27 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   accent-color: rgb(3, 169, 244)  # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: {{ ha_color_border_neutral_quiet }}
+  # Button and Gradient Colors (HA default blue)
+  rgb-primary-color: {{ rgb_primary_color }}
+  ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
+  wa-color-brand-fill-loud: {{ wa_color_brand_fill_loud }}
+  wa-color-brand-fill-normal: {{ wa_color_brand_fill_normal }}
+  wa-color-brand-fill-quiet: {{ wa_color_brand_fill_quiet }}
+  wa-color-brand-border-loud: {{ wa_color_brand_border_loud }}
+  wa-color-brand-border-normal: {{ wa_color_brand_border_normal }}
+  wa-color-brand-border-quiet: {{ wa_color_brand_border_quiet }}
+  wa-color-brand-on-loud: {{ wa_color_brand_on_loud }}
+  wa-color-brand-on-normal: {{ wa_color_brand_on_normal }}
+  wa-color-brand-on-quiet: {{ wa_color_brand_on_quiet }}
+  wa-color-fill-loud: var(--wa-color-brand-fill-loud)
+  wa-color-fill-normal: var(--wa-color-brand-fill-normal)
+  wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
+  wa-color-border-loud: var(--wa-color-brand-border-loud)
+  wa-color-border-normal: var(--wa-color-brand-border-normal)
+  wa-color-border-quiet: var(--wa-color-brand-border-quiet)
+  wa-color-on-loud: var(--wa-color-brand-on-loud)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
+  wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: {{ primary_text_color }}
   secondary-text-color: {{ secondary_text_color }}
