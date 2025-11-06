@@ -7,57 +7,15 @@ ha_card_background:
 rgb_card_background:
   dark: rgb(10, 10, 10)
   light: rgb(245, 245, 245)
-label_badge_red:
-  dark: rgba(255, 159, 9, 0.7)
-  light: rgba(255, 149, 9, 0.7)
-light_primary_color:
-  dark: '#B6B6C1'
-  light: '#2c2c2e'
 more_info_header_background:
   dark: rgba(25, 25, 25, 0.5)
   light: rgba(230, 230, 230, 0.5)
 paper_dialog_background_color:
   dark: rgba(55, 55, 55, 0.8)
   light: rgba(200, 200, 200, 0.8)
-paper_item_icon_color:
-  dark: white
-  light: '#333333'
-paper_slider_active_color:
-  dark: '#0984ff'
-  light: '#007aff'
 primary_background_color:
   dark: '#2c2c2e'
   light: '#e5e5ea'
-primary_color:
-  dark: '#ff9f09'
-  light: '#ff9409'
-primary_text_color:
-  dark: '#FFF'
-  light: '#464a47'
 secondary_background_color:
   dark: rgba(25, 25, 25, 0.9)
   light: rgba(255, 255, 255, 0.9)
-secondary_text_color:
-  dark: '#d3d3d3'
-  light: '#000000'
-sidebar_selected_icon_color:
-  dark: '#FFF'
-  light: '#8e8e93'
-sidebar_text_color:
-  dark: '#F1F1F1'
-  light: var(--light-primary-color)
-state_icon_active_color:
-  dark: '#FFF'
-  light: '#333333'
-switch_checked_track_color:
-  dark: '#30d158'
-  light: '#34c759'
-markdown_code_background_color:
-  dark: '#464646'
-  light: '#FFFFFF'
-code_editor_background_color:
-  dark: '#161616'
-  light: '#FFF'
-ha_color_fill_primary_quiet_resting:
-  dark: rgba(255, 159, 9, 0.15)
-  light: rgba(255, 148, 9, 0.15)
