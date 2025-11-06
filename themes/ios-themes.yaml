@@ -263,7 +263,7 @@ ios-dark-mode-blue-red-alternative:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -375,7 +375,7 @@ ios-dark-mode-blue-red:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -711,7 +711,7 @@ ios-dark-mode-dark-blue-alternative:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -823,7 +823,7 @@ ios-dark-mode-dark-blue:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -1159,7 +1159,7 @@ ios-dark-mode-dark-green-alternative:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -1271,7 +1271,7 @@ ios-dark-mode-dark-green:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -1607,7 +1607,7 @@ ios-dark-mode-light-blue-alternative:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -1719,7 +1719,7 @@ ios-dark-mode-light-blue:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -2055,7 +2055,7 @@ ios-dark-mode-light-green-alternative:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -2167,7 +2167,7 @@ ios-dark-mode-light-green:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -2503,7 +2503,7 @@ ios-dark-mode-orange-alternative:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -2615,7 +2615,7 @@ ios-dark-mode-orange:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -2951,7 +2951,7 @@ ios-dark-mode-red-alternative:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
@@ -3063,7 +3063,7 @@ ios-dark-mode-red:
   # Text
   primary-text-color: "#FFF"
   secondary-text-color: "#e8e8e8"
-  ha-color-text-secondary: "#e8e8e8"
+  ha-color-text-secondary: "#f5f5f5"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
