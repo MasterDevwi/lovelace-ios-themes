@@ -22,8 +22,8 @@ wa_color_brand_fill_loud:
   dark: rgb(3, 169, 244)
   light: rgb(3, 169, 244)
 wa_color_brand_fill_normal:
-  dark: rgba(3, 169, 244, 0.5)
-  light: rgba(3, 169, 244, 0.5)
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
 wa_color_brand_fill_quiet:
   dark: rgba(3, 169, 244, 0.15)
   light: rgba(3, 169, 244, 0.15)
@@ -40,11 +40,11 @@ wa_color_brand_on_loud:
   dark: white
   light: white
 wa_color_brand_on_normal:
-  dark: rgb(3, 169, 244)
-  light: rgb(3, 169, 244)
+  dark: white
+  light: white
 wa_color_brand_on_quiet:
-  dark: rgb(3, 169, 244)
-  light: rgb(3, 169, 244)
+  dark: white
+  light: white
 # Text Colors
 light_primary_color:
   dark: '#B6B6C1'

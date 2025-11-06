@@ -39,14 +39,14 @@ ios-light-mode-blue-red-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -113,14 +113,14 @@ ios-light-mode-blue-red:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -187,14 +187,14 @@ ios-dark-mode-blue-red-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -261,14 +261,14 @@ ios-dark-mode-blue-red:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -335,14 +335,14 @@ ios-light-mode-dark-blue-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -409,14 +409,14 @@ ios-light-mode-dark-blue:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -483,14 +483,14 @@ ios-dark-mode-dark-blue-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -557,14 +557,14 @@ ios-dark-mode-dark-blue:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -631,14 +631,14 @@ ios-light-mode-dark-green-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -705,14 +705,14 @@ ios-light-mode-dark-green:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -779,14 +779,14 @@ ios-dark-mode-dark-green-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -853,14 +853,14 @@ ios-dark-mode-dark-green:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -927,14 +927,14 @@ ios-light-mode-light-blue-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1001,14 +1001,14 @@ ios-light-mode-light-blue:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1075,14 +1075,14 @@ ios-dark-mode-light-blue-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1149,14 +1149,14 @@ ios-dark-mode-light-blue:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1223,14 +1223,14 @@ ios-light-mode-light-green-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1297,14 +1297,14 @@ ios-light-mode-light-green:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1371,14 +1371,14 @@ ios-dark-mode-light-green-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1445,14 +1445,14 @@ ios-dark-mode-light-green:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1519,14 +1519,14 @@ ios-light-mode-orange-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1593,14 +1593,14 @@ ios-light-mode-orange:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1667,14 +1667,14 @@ ios-dark-mode-orange-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1741,14 +1741,14 @@ ios-dark-mode-orange:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1815,14 +1815,14 @@ ios-light-mode-red-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1889,14 +1889,14 @@ ios-light-mode-red:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1963,14 +1963,14 @@ ios-dark-mode-red-alternative:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2037,14 +2037,14 @@ ios-dark-mode-red:
   button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # WA Brand Colors (actual button colors)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgb(3, 169, 244)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(3, 169, 244)
-  wa-color-brand-on-quiet: rgb(3, 169, 244)
+  wa-color-brand-on-normal: white
+  wa-color-brand-on-quiet: white
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
