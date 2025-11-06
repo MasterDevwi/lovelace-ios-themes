@@ -19,6 +19,9 @@ more_info_header_background:
 paper_dialog_background_color:
   dark: rgba(55, 55, 55, 0.8)
   light: rgba(200, 200, 200, 0.8)
+paper_dialog_color:
+  dark: white
+  light: black
 paper_item_icon_color:
   dark: white
   light: '#333333'

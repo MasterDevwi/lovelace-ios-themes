@@ -120,6 +120,7 @@ ios-light-mode-blue-red-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -261,6 +262,7 @@ ios-light-mode-blue-red:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -402,6 +404,7 @@ ios-dark-mode-blue-red-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -543,6 +546,7 @@ ios-dark-mode-blue-red:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -684,6 +688,7 @@ ios-light-mode-dark-blue-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -825,6 +830,7 @@ ios-light-mode-dark-blue:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -966,6 +972,7 @@ ios-dark-mode-dark-blue-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1107,6 +1114,7 @@ ios-dark-mode-dark-blue:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1248,6 +1256,7 @@ ios-light-mode-dark-green-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1389,6 +1398,7 @@ ios-light-mode-dark-green:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1530,6 +1540,7 @@ ios-dark-mode-dark-green-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1671,6 +1682,7 @@ ios-dark-mode-dark-green:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1812,6 +1824,7 @@ ios-light-mode-light-blue-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1953,6 +1966,7 @@ ios-light-mode-light-blue:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2094,6 +2108,7 @@ ios-dark-mode-light-blue-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2235,6 +2250,7 @@ ios-dark-mode-light-blue:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2376,6 +2392,7 @@ ios-light-mode-light-green-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2517,6 +2534,7 @@ ios-light-mode-light-green:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2658,6 +2676,7 @@ ios-dark-mode-light-green-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2799,6 +2818,7 @@ ios-dark-mode-light-green:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2940,6 +2960,7 @@ ios-light-mode-orange-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3081,6 +3102,7 @@ ios-light-mode-orange:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3222,6 +3244,7 @@ ios-dark-mode-orange-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3363,6 +3386,7 @@ ios-dark-mode-orange:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3504,6 +3528,7 @@ ios-light-mode-red-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3645,6 +3670,7 @@ ios-light-mode-red:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3786,6 +3812,7 @@ ios-dark-mode-red-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3927,6 +3954,7 @@ ios-dark-mode-red:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
