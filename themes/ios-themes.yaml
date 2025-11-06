@@ -55,17 +55,6 @@ ios-light-mode-blue-red-alternative:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -120,16 +109,6 @@ ios-light-mode-blue-red-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -206,17 +185,6 @@ ios-light-mode-blue-red:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -271,16 +239,6 @@ ios-light-mode-blue-red:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -357,17 +315,6 @@ ios-dark-mode-blue-red-alternative:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -422,16 +369,6 @@ ios-dark-mode-blue-red-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -508,17 +445,6 @@ ios-dark-mode-blue-red:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -573,16 +499,6 @@ ios-dark-mode-blue-red:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -659,17 +575,6 @@ ios-light-mode-dark-blue-alternative:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -724,16 +629,6 @@ ios-light-mode-dark-blue-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -810,17 +705,6 @@ ios-light-mode-dark-blue:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -875,16 +759,6 @@ ios-light-mode-dark-blue:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -961,17 +835,6 @@ ios-dark-mode-dark-blue-alternative:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -1026,16 +889,6 @@ ios-dark-mode-dark-blue-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1112,17 +965,6 @@ ios-dark-mode-dark-blue:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -1177,16 +1019,6 @@ ios-dark-mode-dark-blue:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1263,17 +1095,6 @@ ios-light-mode-dark-green-alternative:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -1328,16 +1149,6 @@ ios-light-mode-dark-green-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1414,17 +1225,6 @@ ios-light-mode-dark-green:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -1479,16 +1279,6 @@ ios-light-mode-dark-green:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1565,17 +1355,6 @@ ios-dark-mode-dark-green-alternative:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -1630,16 +1409,6 @@ ios-dark-mode-dark-green-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1716,17 +1485,6 @@ ios-dark-mode-dark-green:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -1781,16 +1539,6 @@ ios-dark-mode-dark-green:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1867,17 +1615,6 @@ ios-light-mode-light-blue-alternative:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -1932,16 +1669,6 @@ ios-light-mode-light-blue-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2018,17 +1745,6 @@ ios-light-mode-light-blue:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -2083,16 +1799,6 @@ ios-light-mode-light-blue:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2169,17 +1875,6 @@ ios-dark-mode-light-blue-alternative:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -2234,16 +1929,6 @@ ios-dark-mode-light-blue-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2320,17 +2005,6 @@ ios-dark-mode-light-blue:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -2385,16 +2059,6 @@ ios-dark-mode-light-blue:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2471,17 +2135,6 @@ ios-light-mode-light-green-alternative:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -2536,16 +2189,6 @@ ios-light-mode-light-green-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2622,17 +2265,6 @@ ios-light-mode-light-green:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -2687,16 +2319,6 @@ ios-light-mode-light-green:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2773,17 +2395,6 @@ ios-dark-mode-light-green-alternative:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -2838,16 +2449,6 @@ ios-dark-mode-light-green-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2924,17 +2525,6 @@ ios-dark-mode-light-green:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -2989,16 +2579,6 @@ ios-dark-mode-light-green:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3075,17 +2655,6 @@ ios-light-mode-orange-alternative:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -3140,16 +2709,6 @@ ios-light-mode-orange-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3226,17 +2785,6 @@ ios-light-mode-orange:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -3291,16 +2839,6 @@ ios-light-mode-orange:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3377,17 +2915,6 @@ ios-dark-mode-orange-alternative:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -3442,16 +2969,6 @@ ios-dark-mode-orange-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3528,17 +3045,6 @@ ios-dark-mode-orange:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -3593,16 +3099,6 @@ ios-dark-mode-orange:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3679,17 +3175,6 @@ ios-light-mode-red-alternative:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -3744,16 +3229,6 @@ ios-light-mode-red-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3830,17 +3305,6 @@ ios-light-mode-red:
   ha-color-surface-default: rgba(250, 250, 250, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: black
-  card-primary-color: black
-  mdc-theme-on-surface: black
-  mdc-theme-text-primary-on-background: black
-  ha-card-header-color: black
-  app-header-text-color: black
-  mdc-theme-text-primary: black
-  ha-color-text-primary: black
-  ha-color-on-surface: black
-  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -3895,16 +3359,6 @@ ios-light-mode-red:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
-  paper-dialog-color: black
-  mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
-  mdc-icon-button-color: rgba(0, 0, 0, .87)
-  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
-  dialog-color: black
-  ha-dialog-text-color: black
-  material-body-text-color: black
-  mdc-theme-text-primary-on-light: black
-  body-text-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3981,17 +3435,6 @@ ios-dark-mode-red-alternative:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -4046,16 +3489,6 @@ ios-dark-mode-red-alternative:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -4132,17 +3565,6 @@ ios-dark-mode-red:
   ha-color-surface-default: rgba(30, 30, 30, 1)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
-  # Header title color
-  ha-dialog-header-title-color: white
-  card-primary-color: white
-  mdc-theme-on-surface: white
-  mdc-theme-text-primary-on-background: white
-  ha-card-header-color: white
-  app-header-text-color: white
-  mdc-theme-text-primary: white
-  ha-color-text-primary: white
-  ha-color-on-surface: white
-  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -4197,16 +3619,6 @@ ios-dark-mode-red:
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
-  paper-dialog-color: white
-  mdc-dialog-content-ink-color: white
-  mdc-dialog-heading-ink-color: white
-  mdc-icon-button-color: white
-  mdc-theme-text-icon-on-background: white
-  dialog-color: white
-  ha-dialog-text-color: white
-  material-body-text-color: white
-  mdc-theme-text-primary-on-light: white
-  body-text-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)

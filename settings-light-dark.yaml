@@ -19,36 +19,6 @@ more_info_header_background:
 paper_dialog_background_color:
   dark: rgba(55, 55, 55, 0.8)
   light: rgba(200, 200, 200, 0.8)
-paper_dialog_color:
-  dark: white
-  light: black
-mdc_dialog_content_ink_color:
-  dark: white
-  light: black
-mdc_dialog_heading_ink_color:
-  dark: white
-  light: rgba(0, 0, 0, .87)
-mdc_icon_button_color:
-  dark: white
-  light: rgba(0, 0, 0, .87)
-mdc_theme_text_icon_on_background:
-  dark: white
-  light: rgba(0, 0, 0, .87)
-dialog_color:
-  dark: white
-  light: black
-ha_dialog_text_color:
-  dark: white
-  light: black
-material_body_text_color:
-  dark: white
-  light: black
-mdc_theme_text_primary_on_light:
-  dark: white
-  light: black
-body_text_color:
-  dark: white
-  light: black
 paper_item_icon_color:
   dark: white
   light: '#333333'
@@ -161,37 +131,6 @@ md_list_item_leading_icon_color:
 md_sys_color_on_surface_variant:
   dark: rgb(3, 169, 244)
   light: rgb(3, 169, 244)
-# Header title color
-ha_dialog_header_title_color:
-  dark: white
-  light: black
-card_primary_color:
-  dark: white
-  light: black
-mdc_theme_on_surface:
-  dark: white
-  light: black
-mdc_theme_text_primary_on_background:
-  dark: white
-  light: black
-ha_card_header_color:
-  dark: white
-  light: black
-app_header_text_color:
-  dark: white
-  light: black
-mdc_theme_text_primary:
-  dark: white
-  light: black
-ha_color_text_primary:
-  dark: white
-  light: black
-ha_color_on_surface:
-  dark: white
-  light: black
-mdc_typography_headline6_color:
-  dark: white
-  light: black
 # Neutral fills for unselected toggle buttons
 wa_color_neutral_fill_normal:
   dark: rgba(30, 30, 30, 1)
