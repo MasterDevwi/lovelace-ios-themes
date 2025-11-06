@@ -1,6 +1,24 @@
 divider_color:
   dark: rgba(152, 152, 157, 0.3)
   light: rgba(142, 142, 147, 0.3)
+light_primary_color:
+  dark: '#B6B6C1'
+  light: '#2c2c2e'
+primary_text_color:
+  dark: '#FFF'
+  light: '#464a47'
+secondary_text_color:
+  dark: '#d3d3d3'
+  light: '#000000'
+sidebar_text_color:
+  dark: '#F1F1F1'
+  light: var(--light-primary-color)
+sidebar_selected_icon_color:
+  dark: '#FFF'
+  light: '#8e8e93'
+paper_item_icon_color:
+  dark: white
+  light: '#333333'
 ha_card_background:
   dark: rgba(10, 10, 10, 0.4)
   light: rgba(245, 245, 245, 0.4)

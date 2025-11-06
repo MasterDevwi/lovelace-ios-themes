@@ -11,6 +11,20 @@ ios-light-mode-blue-red-alternative:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -22,8 +36,6 @@ ios-light-mode-blue-red-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -42,6 +54,20 @@ ios-light-mode-blue-red:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -53,8 +79,6 @@ ios-light-mode-blue-red:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -73,6 +97,20 @@ ios-dark-mode-blue-red-alternative:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -84,8 +122,6 @@ ios-dark-mode-blue-red-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -104,6 +140,20 @@ ios-dark-mode-blue-red:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -115,8 +165,6 @@ ios-dark-mode-blue-red:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -135,6 +183,20 @@ ios-light-mode-dark-blue-alternative:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -146,8 +208,6 @@ ios-light-mode-dark-blue-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -166,6 +226,20 @@ ios-light-mode-dark-blue:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -177,8 +251,6 @@ ios-light-mode-dark-blue:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -197,6 +269,20 @@ ios-dark-mode-dark-blue-alternative:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -208,8 +294,6 @@ ios-dark-mode-dark-blue-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -228,6 +312,20 @@ ios-dark-mode-dark-blue:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -239,8 +337,6 @@ ios-dark-mode-dark-blue:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -259,6 +355,20 @@ ios-light-mode-dark-green-alternative:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -270,8 +380,6 @@ ios-light-mode-dark-green-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -290,6 +398,20 @@ ios-light-mode-dark-green:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -301,8 +423,6 @@ ios-light-mode-dark-green:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -321,6 +441,20 @@ ios-dark-mode-dark-green-alternative:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -332,8 +466,6 @@ ios-dark-mode-dark-green-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -352,6 +484,20 @@ ios-dark-mode-dark-green:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -363,8 +509,6 @@ ios-dark-mode-dark-green:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -383,6 +527,20 @@ ios-light-mode-light-blue-alternative:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -394,8 +552,6 @@ ios-light-mode-light-blue-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -414,6 +570,20 @@ ios-light-mode-light-blue:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -425,8 +595,6 @@ ios-light-mode-light-blue:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -445,6 +613,20 @@ ios-dark-mode-light-blue-alternative:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -456,8 +638,6 @@ ios-dark-mode-light-blue-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -476,6 +656,20 @@ ios-dark-mode-light-blue:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -487,8 +681,6 @@ ios-dark-mode-light-blue:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -507,6 +699,20 @@ ios-light-mode-light-green-alternative:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -518,8 +724,6 @@ ios-light-mode-light-green-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -538,6 +742,20 @@ ios-light-mode-light-green:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -549,8 +767,6 @@ ios-light-mode-light-green:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -569,6 +785,20 @@ ios-dark-mode-light-green-alternative:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -580,8 +810,6 @@ ios-dark-mode-light-green-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -600,6 +828,20 @@ ios-dark-mode-light-green:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -611,8 +853,6 @@ ios-dark-mode-light-green:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -631,6 +871,20 @@ ios-light-mode-orange-alternative:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -642,8 +896,6 @@ ios-light-mode-orange-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -662,6 +914,20 @@ ios-light-mode-orange:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -673,8 +939,6 @@ ios-light-mode-orange:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -693,6 +957,20 @@ ios-dark-mode-orange-alternative:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -704,8 +982,6 @@ ios-dark-mode-orange-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -724,6 +1000,20 @@ ios-dark-mode-orange:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -735,8 +1025,6 @@ ios-dark-mode-orange:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -755,6 +1043,20 @@ ios-light-mode-red-alternative:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -766,8 +1068,6 @@ ios-light-mode-red-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -786,6 +1086,20 @@ ios-light-mode-red:
   primary-background-color: "#e5e5ea"  # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
   divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#464a47"
+  secondary-text-color: "#000000"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#2c2c2e"
+  sidebar-text-color: var(--light-primary-color)
+  sidebar-selected-icon-color: "#8e8e93"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: "#333333"
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -797,8 +1111,6 @@ ios-light-mode-red:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(230, 230, 230, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -817,6 +1129,20 @@ ios-dark-mode-red-alternative:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -828,8 +1154,6 @@ ios-dark-mode-red-alternative:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -848,6 +1172,20 @@ ios-dark-mode-red:
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
+  # Text Colors (essential for readability)
+  primary-text-color: "#FFF"
+  secondary-text-color: "#d3d3d3"
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: "#B6B6C1"
+  sidebar-text-color: "#F1F1F1"
+  sidebar-selected-icon-color: "#FFF"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: white
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -859,8 +1197,6 @@ ios-dark-mode-red:
   # Dialogs (transparency)
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)

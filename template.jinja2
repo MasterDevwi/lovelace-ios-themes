@@ -9,6 +9,20 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   primary-background-color: {{ primary_background_color }}  # systemGray5 {{ which }} mode
   secondary-background-color: {{ secondary_background_color }}
   divider-color: {{ divider_color }}  # from Apple systemGray {{ which }} mode
+  # Text Colors (essential for readability)
+  primary-text-color: {{ primary_text_color }}
+  secondary-text-color: {{ secondary_text_color }}
+  text-primary-color: "#FFF"
+  disabled-text-color: "#555"
+  # Sidebar Colors
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-icon-color: {{ light_primary_color }}
+  sidebar-text-color: {{ sidebar_text_color }}
+  sidebar-selected-icon-color: {{ sidebar_selected_icon_color }}
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
+  # Icon Colors
+  state-icon-color: "#FFF"
+  paper-item-icon-color: {{ paper_item_icon_color }}
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: {{  ha_card_background }}
@@ -20,8 +34,6 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   # Dialogs (transparency)
   paper-dialog-background-color: {{ paper_dialog_background_color }}  # e.g., background of more-info
   more-info-header-background: {{ more_info_header_background }}
-  # Sidebar
-  sidebar-background-color: var(--primary-background-color)
   # Table rows
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
