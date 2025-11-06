@@ -34,6 +34,9 @@ primary_color:
 primary_text_color:
   dark: '#FFF'
   light: '#464a47'
+text_primary_color:
+  dark: '#FFF'
+  light: '#000000'
 secondary_background_color:
   dark: rgba(25, 25, 25, 0.9)
   light: rgba(255, 255, 255, 0.9)
@@ -95,10 +98,10 @@ wa_color_brand_on_loud:
   light: white
 wa_color_brand_on_normal:
   dark: rgb(100, 220, 255)
-  light: rgb(3, 169, 244)
+  light: rgb(0, 110, 165)
 wa_color_brand_on_quiet:
   dark: rgb(100, 220, 255)
-  light: rgb(3, 169, 244)
+  light: rgb(0, 110, 165)
 # Resting and hover states
 ha_color_fill_primary_normal_resting:
   dark: rgba(3, 169, 244, 0.5)
@@ -114,7 +117,7 @@ ha_color_fill_primary_normal_active:
   light: rgba(3, 169, 244, 0.25)
 ha_color_on_primary_normal:
   dark: rgb(100, 220, 255)
-  light: rgb(3, 169, 244)
+  light: rgb(0, 110, 165)
 # Dialog and list variables
 ha_color_fill_neutral_quiet_resting:
   dark: rgba(40, 40, 40, 1)
