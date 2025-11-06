@@ -109,3 +109,16 @@ wa_color_brand_fill_normal_hover:
 ha_color_fill_primary_normal_hover:
   dark: rgba(3, 169, 244, 0.55)
   light: rgba(3, 169, 244, 0.55)
+# Dialog and list variables
+ha_color_fill_neutral_quiet_resting:
+  dark: rgba(40, 40, 40, 1)
+  light: rgba(240, 240, 240, 1)
+ha_color_surface_default:
+  dark: rgba(30, 30, 30, 1)
+  light: rgba(250, 250, 250, 1)
+md_list_item_leading_icon_color:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+md_sys_color_on_surface_variant:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
