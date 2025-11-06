@@ -161,10 +161,10 @@ ios-dark-mode-blue-red-alternative:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -235,10 +235,10 @@ ios-dark-mode-blue-red:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -457,10 +457,10 @@ ios-dark-mode-dark-blue-alternative:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -531,10 +531,10 @@ ios-dark-mode-dark-blue:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -753,10 +753,10 @@ ios-dark-mode-dark-green-alternative:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -827,10 +827,10 @@ ios-dark-mode-dark-green:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -1049,10 +1049,10 @@ ios-dark-mode-light-blue-alternative:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -1123,10 +1123,10 @@ ios-dark-mode-light-blue:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -1345,10 +1345,10 @@ ios-dark-mode-light-green-alternative:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -1419,10 +1419,10 @@ ios-dark-mode-light-green:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -1641,10 +1641,10 @@ ios-dark-mode-orange-alternative:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -1715,10 +1715,10 @@ ios-dark-mode-orange:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -1937,10 +1937,10 @@ ios-dark-mode-red-alternative:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
@@ -2011,10 +2011,10 @@ ios-dark-mode-red:
   divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
   # Text Colors (essential for readability)
   primary-text-color: "#FFF"
-  secondary-text-color: "#d3d3d3"
+  secondary-text-color: "#e8e8e8"
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: "#d3d3d3"
+  ha-color-text-secondary: "#e8e8e8"
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: "#B6B6C1"
