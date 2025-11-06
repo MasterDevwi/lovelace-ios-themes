@@ -8,8 +8,8 @@ rgb_card_background:
   dark: rgb(10, 10, 10)
   light: rgb(245, 245, 245)
 label_badge_red:
-  dark: rgba(255, 159, 9, 0.7)
-  light: rgba(255, 149, 9, 0.7)
+  dark: rgba(3, 169, 244, 0.7)
+  light: rgba(3, 169, 244, 0.7)
 light_primary_color:
   dark: '#B6B6C1'
   light: '#2c2c2e'
@@ -29,8 +29,8 @@ primary_background_color:
   dark: '#2c2c2e'
   light: '#e5e5ea'
 primary_color:
-  dark: '#ff9f09'
-  light: '#ff9409'
+  dark: '#03a9f4'
+  light: '#03a9f4'
 primary_text_color:
   dark: '#FFF'
   light: '#464a47'
@@ -38,8 +38,14 @@ secondary_background_color:
   dark: rgba(25, 25, 25, 0.9)
   light: rgba(255, 255, 255, 0.9)
 secondary_text_color:
-  dark: '#d3d3d3'
+  dark: '#e8e8e8'
   light: '#000000'
+ha_color_text_secondary:
+  dark: '#e8e8e8'
+  light: '#727272'
+ha_color_fill_neutral_loud_resting:
+  dark: rgba(94, 94, 94, 1)
+  light: rgba(230, 230, 230, 1)
 sidebar_selected_icon_color:
   dark: '#FFF'
   light: '#8e8e93'
@@ -58,6 +64,83 @@ markdown_code_background_color:
 code_editor_background_color:
   dark: '#161616'
   light: '#FFF'
-ha_color_fill_primary_quiet_resting:
-  dark: rgba(255, 159, 9, 0.15)
-  light: rgba(255, 148, 9, 0.15)
+# Border fix (gray instead of white)
+ha_color_border_neutral_quiet:
+  dark: rgba(152, 152, 152, 0.3)
+  light: rgba(152, 152, 152, 0.3)
+# Button and gradient variables (HA default blue)
+rgb_primary_color:
+  dark: 3, 169, 244
+  light: 3, 169, 244
+wa_color_brand_fill_loud:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_fill_normal:
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
+wa_color_brand_fill_quiet:
+  dark: rgba(3, 169, 244, 0.15)
+  light: rgba(3, 169, 244, 0.15)
+wa_color_brand_border_loud:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_border_normal:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_border_quiet:
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
+wa_color_brand_on_loud:
+  dark: white
+  light: white
+wa_color_brand_on_normal:
+  dark: rgb(100, 220, 255)
+  light: rgb(100, 220, 255)
+wa_color_brand_on_quiet:
+  dark: rgb(100, 220, 255)
+  light: rgb(100, 220, 255)
+# Resting and hover states
+ha_color_fill_primary_normal_resting:
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
+wa_color_brand_fill_normal_hover:
+  dark: rgba(3, 169, 244, 0.55)
+  light: rgba(3, 169, 244, 0.55)
+ha_color_fill_primary_normal_hover:
+  dark: rgba(3, 169, 244, 0.55)
+  light: rgba(3, 169, 244, 0.55)
+ha_color_fill_primary_normal_active:
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
+ha_color_on_primary_normal:
+  dark: rgb(100, 220, 255)
+  light: rgb(100, 220, 255)
+# Dialog and list variables
+ha_color_fill_neutral_quiet_resting:
+  dark: rgba(40, 40, 40, 1)
+  light: rgba(240, 240, 240, 1)
+ha_color_surface_default:
+  dark: rgba(30, 30, 30, 1)
+  light: rgba(250, 250, 250, 1)
+md_list_item_leading_icon_color:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+md_sys_color_on_surface_variant:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+# Neutral fills for unselected toggle buttons
+wa_color_neutral_fill_normal:
+  dark: rgba(30, 30, 30, 1)
+  light: rgba(230, 230, 230, 1)
+wa_color_neutral_on_normal:
+  dark: rgba(200, 200, 200, 1)
+  light: rgba(80, 80, 80, 1)
+ha_color_fill_neutral_normal_resting:
+  dark: rgba(30, 30, 30, 1)
+  light: rgba(230, 230, 230, 1)
+ha_color_fill_neutral_normal_hover:
+  dark: rgba(60, 60, 60, 1)
+  light: rgba(220, 220, 220, 1)
+ha_color_on_neutral_normal_resting:
+  dark: rgba(200, 200, 200, 1)
+  light: rgba(80, 80, 80, 1)

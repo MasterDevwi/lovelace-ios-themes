@@ -5,36 +5,72 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   # Global
   background-image: "center / cover no-repeat fixed url('{{ background }}')"
   lovelace-background: var(--background-image)
-  primary-color: {{ primary_color }}  # from Apple systemOrange {{ which }} mode
-  light-primary-color: {{ light_primary_color }}  # (icons on left menu) (light: systemGray5 from iOS dark mode, dark: XXX)
+  primary-color: {{ primary_color }}  # HA default blue
+  light-primary-color: {{ light_primary_color }}  # (icons on left menu)
   primary-background-color: {{ primary_background_color }}  # systemGray5 {{ which }} mode
   secondary-background-color: {{ secondary_background_color }}
   divider-color: {{ divider_color }}  # from Apple systemGray {{ which }} mode
-  accent-color: rgba(255, 159, 9, 1)
-  # Button Colors (HA 2025.x)
-  ha-color-fill-primary-loud-active: var(--primary-color)
-  ha-color-fill-primary-loud-hover: var(--primary-color)
-  ha-color-fill-primary-quiet-resting: {{ ha_color_fill_primary_quiet_resting }}
-  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
-  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
+  accent-color: rgb(3, 169, 244)  # HA default blue
+  # Border fix (gray instead of white)
+  ha-color-border-neutral-quiet: {{ ha_color_border_neutral_quiet }}
+  # Button and Gradient Colors (HA default blue)
+  rgb-primary-color: {{ rgb_primary_color }}
+  ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
+  ha-color-fill-primary-normal-resting: {{ ha_color_fill_primary_normal_resting }}
+  ha-color-fill-primary-normal-hover: {{ ha_color_fill_primary_normal_hover }}
+  ha-color-fill-primary-normal-active: {{ ha_color_fill_primary_normal_active }}
+  ha-color-on-primary-normal: {{ ha_color_on_primary_normal }}
+  wa-color-brand-fill-loud: {{ wa_color_brand_fill_loud }}
+  wa-color-brand-fill-normal: {{ wa_color_brand_fill_normal }}
+  wa-color-brand-fill-quiet: {{ wa_color_brand_fill_quiet }}
+  wa-color-brand-border-loud: {{ wa_color_brand_border_loud }}
+  wa-color-brand-border-normal: {{ wa_color_brand_border_normal }}
+  wa-color-brand-border-quiet: {{ wa_color_brand_border_quiet }}
+  wa-color-brand-on-loud: {{ wa_color_brand_on_loud }}
+  wa-color-brand-on-normal: {{ wa_color_brand_on_normal }}
+  wa-color-brand-on-quiet: {{ wa_color_brand_on_quiet }}
+  wa-color-brand-fill-normal-hover: {{ wa_color_brand_fill_normal_hover }}
+  wa-color-fill-loud: var(--wa-color-brand-fill-loud)
+  wa-color-fill-normal: var(--wa-color-brand-fill-normal)
+  wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
+  wa-color-fill-normal-hover: var(--wa-color-brand-fill-normal-hover)
+  wa-color-border-loud: var(--wa-color-brand-border-loud)
+  wa-color-border-normal: var(--wa-color-brand-border-normal)
+  wa-color-border-quiet: var(--wa-color-brand-border-quiet)
+  wa-color-on-loud: var(--wa-color-brand-on-loud)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
+  wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: {{ primary_text_color }}
   secondary-text-color: {{ secondary_text_color }}
+  ha-color-text-secondary: {{ ha_color_text_secondary }}
+  ha-color-fill-neutral-loud-resting: {{ ha_color_fill_neutral_loud_resting }}
   text-primary-color: "#FFF"
-  disabled-text-color: "#555"  # XXX: https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/2
+  disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  # Dialog and list variables
+  ha-color-fill-neutral-quiet-resting: {{ ha_color_fill_neutral_quiet_resting }}
+  ha-color-surface-default: {{ ha_color_surface_default }}
+  md-list-item-leading-icon-color: {{ md_list_item_leading_icon_color }}
+  md-sys-color-on-surface-variant: {{ md_sys_color_on_surface_variant }}
+  # Neutral fills for unselected toggle buttons
+  wa-color-neutral-fill-normal: {{ wa_color_neutral_fill_normal }}
+  wa-color-neutral-on-normal: {{ wa_color_neutral_on_normal }}
+  ha-color-fill-neutral-normal-resting: {{ ha_color_fill_neutral_normal_resting }}
+  ha-color-fill-neutral-normal-hover: {{ ha_color_fill_neutral_normal_hover }}
+  ha-color-on-neutral-normal-resting: {{ ha_color_on_neutral_normal_resting }}
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
   sidebar-text-color: {{ sidebar_text_color }}
   sidebar-selected-background-color: var(--primary-background-color)
-  sidebar-selected-icon-color: {{ sidebar_selected_icon_color }}  # (light: systemGray5 from iOS light mode, dark: XXX)
+  sidebar-selected-icon-color: {{ sidebar_selected_icon_color }}
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   # States and Badges
   state-icon-color: "#FFF"
-  state-icon-active-color: {{ state_icon_active_color }}  # or make light icons yellow when active: rgba(255, 214, 10, 1)
+  state-icon-active-color: {{ state_icon_active_color }}
   state-icon-unavailable-color: var(--disabled-text-color)
-  paper-item-icon-active-color: {{ state_icon_active_color }}  # see https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/30
+  paper-item-icon-active-color: {{ state_icon_active_color }}
   # Sliders
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
@@ -47,15 +83,16 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: {{ label_badge_red }}  # from Apple systemOrange {{ which }} mode
+  label-badge-red: {{ label_badge_red }}  # HA default blue
   # Cards
   card-background-color: var(--secondary-background-color)  # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: {{  ha_card_background }}
   paper-card-background-color: var(--ha-card-background)
-  rgb-card-background-color: {{ rgb_card_background }} # see https://github.com/basnijholt/lovelace-ios-themes/issues/60
-  ha-card-border-width: 0  # https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/82#event-7732695357
+  rgb-card-background-color: {{ rgb_card_background }}
+  ha-card-border-width: 0
+  clear-background-color: var(--ha-card-background)
   # Toggles
   paper-toggle-button-checked-button-color: "#484848"
   paper-toggle-button-checked-bar-color: "#484848"
@@ -65,24 +102,22 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
-  switch-checked-color: "#30d257"  # XXX: remove when https://github.com/home-assistant/home-assistant-polymer/pull/4203 is in HA
+  switch-checked-color: "#30d257"
   switch-checked-track-color: {{ switch_checked_track_color }}  # from Apple systemGreen {{ which }} mode
   switch-checked-button-color: "#FFF"
   # Other
   paper-dialog-background-color: {{ paper_dialog_background_color }}  # e.g., background of more-info
-  paper-item-icon-color: {{ paper_item_icon_color }}  # also should mini-media-player icon white (but doesn't work by itself)
+  paper-item-icon-color: {{ paper_item_icon_color }}
   more-info-header-background: {{ more_info_header_background }}
-  lumo-body-text-color: var(--primary-text-color)  # see https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/42
+  lumo-body-text-color: var(--primary-text-color)
   app-header-background-color: {{ app_header_background_color }}
   markdown-code-background-color: {{ markdown_code_background_color }}
   code-editor-background-color: {{ code_editor_background_color }}
-  clear-background-color: var(--ha-card-background)  # see https://github.com/basnijholt/lovelace-ios-themes/issues/64
   # Custom
   mcg-title-letter-spacing: .15em
   mini-media-player-base-color: white
   mini-media-player-icon-color: white
-  # Added for https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/72
-  # TODO: add description for lines below. Suggested in https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/72
+  # Input fields
   input-ink-color: var(--primary-text-color)
   input-fill-color: transparent
   input-disabled-fill-color: transparent
