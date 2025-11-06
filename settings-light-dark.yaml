@@ -45,6 +45,38 @@ wa_color_brand_on_normal:
 wa_color_brand_on_quiet:
   dark: white
   light: white
+# WA Neutral Colors (dropdowns, borders, inactive buttons)
+wa_color_neutral_fill_loud:
+  dark: rgba(94, 94, 94, 1)
+  light: rgba(230, 230, 230, 1)
+wa_color_neutral_fill_normal:
+  dark: rgba(54, 54, 54, 1)
+  light: rgba(243, 243, 243, 1)
+wa_color_neutral_fill_quiet:
+  dark: rgba(32, 32, 32, 1)
+  light: rgba(249, 249, 249, 1)
+wa_color_neutral_border_loud:
+  dark: rgba(94, 94, 94, 1)
+  light: rgba(94, 94, 94, 1)
+wa_color_neutral_border_normal:
+  dark: rgba(152, 152, 152, 1)
+  light: rgba(152, 152, 152, 1)
+wa_color_neutral_border_quiet:
+  dark: rgba(204, 204, 204, 0.3)
+  light: rgba(204, 204, 204, 0.3)
+wa_color_neutral_on_loud:
+  dark: white
+  light: black
+wa_color_neutral_on_normal:
+  dark: white
+  light: black
+wa_color_neutral_on_quiet:
+  dark: white
+  light: black
+# MDC (Material Design Components) for dropdowns
+mdc_text_field_fill_color:
+  dark: rgba(54, 54, 54, 1)
+  light: rgba(243, 243, 243, 1)
 # Text Colors
 light_primary_color:
   dark: '#B6B6C1'

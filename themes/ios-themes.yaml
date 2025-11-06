@@ -56,6 +56,18 @@ ios-light-mode-blue-red-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -130,6 +142,18 @@ ios-light-mode-blue-red:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -204,6 +228,18 @@ ios-dark-mode-blue-red-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -278,6 +314,18 @@ ios-dark-mode-blue-red:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -352,6 +400,18 @@ ios-light-mode-dark-blue-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -426,6 +486,18 @@ ios-light-mode-dark-blue:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -500,6 +572,18 @@ ios-dark-mode-dark-blue-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -574,6 +658,18 @@ ios-dark-mode-dark-blue:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -648,6 +744,18 @@ ios-light-mode-dark-green-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -722,6 +830,18 @@ ios-light-mode-dark-green:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -796,6 +916,18 @@ ios-dark-mode-dark-green-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -870,6 +1002,18 @@ ios-dark-mode-dark-green:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -944,6 +1088,18 @@ ios-light-mode-light-blue-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1018,6 +1174,18 @@ ios-light-mode-light-blue:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1092,6 +1260,18 @@ ios-dark-mode-light-blue-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1166,6 +1346,18 @@ ios-dark-mode-light-blue:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1240,6 +1432,18 @@ ios-light-mode-light-green-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1314,6 +1518,18 @@ ios-light-mode-light-green:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1388,6 +1604,18 @@ ios-dark-mode-light-green-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1462,6 +1690,18 @@ ios-dark-mode-light-green:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1536,6 +1776,18 @@ ios-light-mode-orange-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1610,6 +1862,18 @@ ios-light-mode-orange:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1684,6 +1948,18 @@ ios-dark-mode-orange-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1758,6 +2034,18 @@ ios-dark-mode-orange:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1832,6 +2120,18 @@ ios-light-mode-red-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1906,6 +2206,18 @@ ios-light-mode-red:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(230, 230, 230, 1)
+  wa-color-neutral-fill-normal: rgba(243, 243, 243, 1)
+  wa-color-neutral-fill-quiet: rgba(249, 249, 249, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: black
+  wa-color-neutral-on-normal: black
+  wa-color-neutral-on-quiet: black
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(243, 243, 243, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1980,6 +2292,18 @@ ios-dark-mode-red-alternative:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -2054,6 +2378,18 @@ ios-dark-mode-red:
   wa-color-on-loud: var(--wa-color-brand-on-loud)
   wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
+  # WA Neutral Colors (dropdowns, borders, inactive buttons)
+  wa-color-neutral-fill-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-fill-normal: rgba(54, 54, 54, 1)
+  wa-color-neutral-fill-quiet: rgba(32, 32, 32, 1)
+  wa-color-neutral-border-loud: rgba(94, 94, 94, 1)
+  wa-color-neutral-border-normal: rgba(152, 152, 152, 1)
+  wa-color-neutral-border-quiet: rgba(204, 204, 204, 0.3)
+  wa-color-neutral-on-loud: white
+  wa-color-neutral-on-normal: white
+  wa-color-neutral-on-quiet: white
+  # MDC (Material Design Components)
+  mdc-text-field-fill-color: rgba(54, 54, 54, 1)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
