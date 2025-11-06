@@ -17,6 +17,34 @@ ha_color_fill_primary_loud_active:
 ha_color_fill_primary_loud_hover:
   dark: rgba(3, 169, 244, 0.9)
   light: rgba(3, 169, 244, 0.9)
+# WA Brand Colors (actual button colors)
+wa_color_brand_fill_loud:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_fill_normal:
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
+wa_color_brand_fill_quiet:
+  dark: rgba(3, 169, 244, 0.15)
+  light: rgba(3, 169, 244, 0.15)
+wa_color_brand_border_loud:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_border_normal:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_border_quiet:
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
+wa_color_brand_on_loud:
+  dark: white
+  light: white
+wa_color_brand_on_normal:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+wa_color_brand_on_quiet:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
 # Text Colors
 light_primary_color:
   dark: '#B6B6C1'
