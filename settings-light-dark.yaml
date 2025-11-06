@@ -1,6 +1,23 @@
 divider_color:
   dark: rgba(152, 152, 157, 0.3)
   light: rgba(142, 142, 147, 0.3)
+# HA Default Blue Colors
+rgb_primary_color:
+  dark: 3, 169, 244
+  light: 3, 169, 244
+ha_color_fill_primary_normal_active:
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
+ha_color_fill_primary_normal_hover:
+  dark: rgba(3, 169, 244, 0.3)
+  light: rgba(3, 169, 244, 0.3)
+ha_color_fill_primary_loud_active:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
+ha_color_fill_primary_loud_hover:
+  dark: rgba(3, 169, 244, 0.9)
+  light: rgba(3, 169, 244, 0.9)
+# Text Colors
 light_primary_color:
   dark: '#B6B6C1'
   light: '#2c2c2e'
@@ -8,6 +25,9 @@ primary_text_color:
   dark: '#FFF'
   light: '#464a47'
 secondary_text_color:
+  dark: '#d3d3d3'
+  light: '#000000'
+ha_color_text_secondary:
   dark: '#d3d3d3'
   light: '#000000'
 sidebar_text_color:

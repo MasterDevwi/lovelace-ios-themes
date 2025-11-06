@@ -14,6 +14,7 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   secondary-text-color: {{ secondary_text_color }}
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
+  ha-color-text-secondary: {{ ha_color_text_secondary }}
   # Sidebar Colors
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: {{ light_primary_color }}
@@ -23,8 +24,17 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   # Icon Colors
   state-icon-color: "#FFF"
   paper-item-icon-color: {{ paper_item_icon_color }}
-  # Gradient (HA default blue)
+  # HA Default Blue Button/Gradient Colors
+  rgb-primary-color: {{ rgb_primary_color }}
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
+  ha-color-fill-primary-normal-active: {{ ha_color_fill_primary_normal_active }}
+  ha-color-fill-primary-normal-hover: {{ ha_color_fill_primary_normal_hover }}
+  ha-color-fill-primary-loud-active: {{ ha_color_fill_primary_loud_active }}
+  ha-color-fill-primary-loud-hover: {{ ha_color_fill_primary_loud_hover }}
+  button-color-fill-normal-active: var(--ha-color-fill-primary-normal-active)
+  button-color-fill-normal-hover: var(--ha-color-fill-primary-normal-hover)
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Cards (transparency and iOS rounded corners)
   ha-card-border-radius: 20px
   ha-card-background: {{  ha_card_background }}
