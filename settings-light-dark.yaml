@@ -99,3 +99,7 @@ wa_color_brand_on_normal:
 wa_color_brand_on_quiet:
   dark: rgb(100, 220, 255)
   light: rgb(100, 220, 255)
+# Hover states
+wa_color_brand_fill_normal_hover:
+  dark: rgba(3, 169, 244, 0.6)
+  light: rgba(3, 169, 244, 0.6)
