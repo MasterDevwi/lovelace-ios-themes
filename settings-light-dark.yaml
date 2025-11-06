@@ -40,6 +40,9 @@ secondary_background_color:
 secondary_text_color:
   dark: '#e8e8e8'
   light: '#000000'
+ha_color_text_secondary:
+  dark: '#e8e8e8'
+  light: '#000000'
 sidebar_selected_icon_color:
   dark: '#FFF'
   light: '#8e8e93'
