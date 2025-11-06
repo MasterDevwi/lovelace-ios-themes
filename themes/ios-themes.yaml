@@ -122,7 +122,9 @@ ios-light-mode-blue-red-alternative:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -271,7 +273,9 @@ ios-light-mode-blue-red:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -421,6 +425,8 @@ ios-dark-mode-blue-red-alternative:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -570,6 +576,8 @@ ios-dark-mode-blue-red:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -718,7 +726,9 @@ ios-light-mode-dark-blue-alternative:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -867,7 +877,9 @@ ios-light-mode-dark-blue:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -1017,6 +1029,8 @@ ios-dark-mode-dark-blue-alternative:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -1166,6 +1180,8 @@ ios-dark-mode-dark-blue:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -1314,7 +1330,9 @@ ios-light-mode-dark-green-alternative:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -1463,7 +1481,9 @@ ios-light-mode-dark-green:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -1613,6 +1633,8 @@ ios-dark-mode-dark-green-alternative:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -1762,6 +1784,8 @@ ios-dark-mode-dark-green:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -1910,7 +1934,9 @@ ios-light-mode-light-blue-alternative:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -2059,7 +2085,9 @@ ios-light-mode-light-blue:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -2209,6 +2237,8 @@ ios-dark-mode-light-blue-alternative:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -2358,6 +2388,8 @@ ios-dark-mode-light-blue:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -2506,7 +2538,9 @@ ios-light-mode-light-green-alternative:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -2655,7 +2689,9 @@ ios-light-mode-light-green:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -2805,6 +2841,8 @@ ios-dark-mode-light-green-alternative:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -2954,6 +2992,8 @@ ios-dark-mode-light-green:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -3102,7 +3142,9 @@ ios-light-mode-orange-alternative:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -3251,7 +3293,9 @@ ios-light-mode-orange:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -3401,6 +3445,8 @@ ios-dark-mode-orange-alternative:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -3550,6 +3596,8 @@ ios-dark-mode-orange:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -3698,7 +3746,9 @@ ios-light-mode-red-alternative:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -3847,7 +3897,9 @@ ios-light-mode-red:
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
   mdc-dialog-content-ink-color: black
-  mdc-dialog-heading-ink-color: black
+  mdc-dialog-heading-ink-color: rgba(0, 0, 0, .87)
+  mdc-icon-button-color: rgba(0, 0, 0, .87)
+  mdc-theme-text-icon-on-background: rgba(0, 0, 0, .87)
   dialog-color: black
   ha-dialog-text-color: black
   material-body-text-color: black
@@ -3997,6 +4049,8 @@ ios-dark-mode-red-alternative:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white
@@ -4146,6 +4200,8 @@ ios-dark-mode-red:
   paper-dialog-color: white
   mdc-dialog-content-ink-color: white
   mdc-dialog-heading-ink-color: white
+  mdc-icon-button-color: white
+  mdc-theme-text-icon-on-background: white
   dialog-color: white
   ha-dialog-text-color: white
   material-body-text-color: white

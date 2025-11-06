@@ -27,7 +27,13 @@ mdc_dialog_content_ink_color:
   light: black
 mdc_dialog_heading_ink_color:
   dark: white
-  light: black
+  light: rgba(0, 0, 0, .87)
+mdc_icon_button_color:
+  dark: white
+  light: rgba(0, 0, 0, .87)
+mdc_theme_text_icon_on_background:
+  dark: white
+  light: rgba(0, 0, 0, .87)
 dialog_color:
   dark: white
   light: black
