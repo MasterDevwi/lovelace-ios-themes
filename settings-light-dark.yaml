@@ -94,8 +94,8 @@ wa_color_brand_on_loud:
   dark: white
   light: white
 wa_color_brand_on_normal:
-  dark: white
-  light: white
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
 wa_color_brand_on_quiet:
-  dark: white
-  light: white
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
