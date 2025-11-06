@@ -2,84 +2,88 @@
 # iOS {{ which.capitalize() }} Mode Theme - {{ color }}
 #
 ios-{{ which }}-mode-{{ color }}{{ suffix }}:
-  # Background Image (core feature)
+  # Global
   background-image: "center / cover no-repeat fixed url('{{ background }}')"
   lovelace-background: var(--background-image)
-  # Background Colors (gray instead of black)
+  primary-color: {{ primary_color }}  # HA default blue
+  light-primary-color: {{ light_primary_color }}  # (icons on left menu)
   primary-background-color: {{ primary_background_color }}  # systemGray5 {{ which }} mode
   secondary-background-color: {{ secondary_background_color }}
   divider-color: {{ divider_color }}  # from Apple systemGray {{ which }} mode
-  # Text Colors (essential for readability)
+  accent-color: rgb(3, 169, 244)  # HA default blue
+  # Border fix (gray instead of white)
+  ha-color-border-neutral-quiet: {{ ha_color_border_neutral_quiet }}
+  # Text
   primary-text-color: {{ primary_text_color }}
   secondary-text-color: {{ secondary_text_color }}
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
-  ha-color-text-secondary: {{ ha_color_text_secondary }}
-  # Sidebar Colors
+  text-dark-color: "#FFF"
+  # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
-  sidebar-icon-color: {{ light_primary_color }}
+  sidebar-icon-color: var(--light-primary-color)
   sidebar-text-color: {{ sidebar_text_color }}
+  sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: {{ sidebar_selected_icon_color }}
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
-  # Icon Colors
+  # States and Badges
   state-icon-color: "#FFF"
-  paper-item-icon-color: {{ paper_item_icon_color }}
-  # HA Default Blue Button/Gradient Colors
-  rgb-primary-color: {{ rgb_primary_color }}
-  ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
-  ha-color-fill-primary-normal-active: {{ ha_color_fill_primary_normal_active }}
-  ha-color-fill-primary-normal-hover: {{ ha_color_fill_primary_normal_hover }}
-  ha-color-fill-primary-loud-active: {{ ha_color_fill_primary_loud_active }}
-  ha-color-fill-primary-loud-hover: {{ ha_color_fill_primary_loud_hover }}
-  button-color-fill-normal-active: var(--ha-color-fill-primary-normal-active)
-  button-color-fill-normal-hover: var(--ha-color-fill-primary-normal-hover)
-  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
-  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
-  # WA Brand Colors (actual button colors)
-  wa-color-brand-fill-loud: {{ wa_color_brand_fill_loud }}
-  wa-color-brand-fill-normal: {{ wa_color_brand_fill_normal }}
-  wa-color-brand-fill-quiet: {{ wa_color_brand_fill_quiet }}
-  wa-color-brand-border-loud: {{ wa_color_brand_border_loud }}
-  wa-color-brand-border-normal: {{ wa_color_brand_border_normal }}
-  wa-color-brand-border-quiet: {{ wa_color_brand_border_quiet }}
-  wa-color-brand-on-loud: {{ wa_color_brand_on_loud }}
-  wa-color-brand-on-normal: {{ wa_color_brand_on_normal }}
-  wa-color-brand-on-quiet: {{ wa_color_brand_on_quiet }}
-  wa-color-fill-loud: var(--wa-color-brand-fill-loud)
-  wa-color-fill-normal: var(--wa-color-brand-fill-normal)
-  wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
-  wa-color-border-loud: var(--wa-color-brand-border-loud)
-  wa-color-border-normal: var(--wa-color-brand-border-normal)
-  wa-color-border-quiet: var(--wa-color-brand-border-quiet)
-  wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: var(--wa-color-brand-on-normal)
-  wa-color-on-quiet: var(--wa-color-brand-on-quiet)
-  # WA Neutral Colors (dropdowns, borders, inactive buttons)
-  wa-color-neutral-fill-loud: {{ wa_color_neutral_fill_loud }}
-  wa-color-neutral-fill-normal: {{ wa_color_neutral_fill_normal }}
-  wa-color-neutral-fill-quiet: {{ wa_color_neutral_fill_quiet }}
-  wa-color-neutral-border-loud: {{ wa_color_neutral_border_loud }}
-  wa-color-neutral-border-normal: {{ wa_color_neutral_border_normal }}
-  wa-color-neutral-border-quiet: {{ wa_color_neutral_border_quiet }}
-  wa-color-neutral-on-loud: {{ wa_color_neutral_on_loud }}
-  wa-color-neutral-on-normal: {{ wa_color_neutral_on_normal }}
-  wa-color-neutral-on-quiet: {{ wa_color_neutral_on_quiet }}
-  # MDC (Material Design Components)
-  mdc-text-field-fill-color: {{ mdc_text_field_fill_color }}
-  # Cards (transparency and iOS rounded corners)
+  state-icon-active-color: {{ state_icon_active_color }}
+  state-icon-unavailable-color: var(--disabled-text-color)
+  paper-item-icon-active-color: {{ state_icon_active_color }}
+  # Sliders
+  paper-slider-knob-color: "#FFFFFF"
+  paper-slider-knob-start-color: var(--paper-slider-knob-color)
+  paper-slider-pin-color: var(--paper-slider-knob-color)
+  paper-slider-active-color: {{ paper_slider_active_color }}  # from Apple systemBlue {{ which }} mode
+  paper-slider-secondary-color: var(--paper-slider-knob-color)
+  paper-slider-container-color: rgba(255, 255, 255, 0.5)
+  paper-slider-font-color: "#000"
+  ha-slider-background: none !important
+  # Labels
+  label-badge-background-color: "#23232E"
+  label-badge-text-color: "#F1F1F1"
+  label-badge-red: {{ label_badge_red }}  # HA default blue
+  # Cards
+  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: {{  ha_card_background }}
   paper-card-background-color: var(--ha-card-background)
-  rgb-card-background-color: {{ rgb_card_background }} # see https://github.com/basnijholt/lovelace-ios-themes/issues/60
-  ha-card-border-width: 0  # https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/82#event-7732695357
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
-  clear-background-color: var(--ha-card-background)  # see https://github.com/basnijholt/lovelace-ios-themes/issues/64
-  # Dialogs (transparency)
-  paper-dialog-background-color: {{ paper_dialog_background_color }}  # e.g., background of more-info
-  more-info-header-background: {{ more_info_header_background }}
-  # Table rows
+  rgb-card-background-color: {{ rgb_card_background }}
+  ha-card-border-width: 0
+  clear-background-color: var(--ha-card-background)
+  # Toggles
+  paper-toggle-button-checked-button-color: "#484848"
+  paper-toggle-button-checked-bar-color: "#484848"
+  paper-toggle-button-unchecked-button-color: var(--paper-toggle-button-checked-button-color)
+  paper-toggle-button-unchecked-bar-color: var(--disabled-text-color)
+  # Table row
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
-  # Other backgrounds
-  paper-listbox-background-color: var(--primary-background-color)
+  # Switches
+  switch-checked-color: "#30d257"
+  switch-checked-track-color: {{ switch_checked_track_color }}  # from Apple systemGreen {{ which }} mode
+  switch-checked-button-color: "#FFF"
+  # Other
+  paper-dialog-background-color: {{ paper_dialog_background_color }}  # e.g., background of more-info
+  paper-item-icon-color: {{ paper_item_icon_color }}
+  more-info-header-background: {{ more_info_header_background }}
+  lumo-body-text-color: var(--primary-text-color)
   app-header-background-color: {{ app_header_background_color }}
+  markdown-code-background-color: {{ markdown_code_background_color }}
+  code-editor-background-color: {{ code_editor_background_color }}
+  # Custom
+  mcg-title-letter-spacing: .15em
+  mini-media-player-base-color: white
+  mini-media-player-icon-color: white
+  # Input fields
+  input-ink-color: var(--primary-text-color)
+  input-fill-color: transparent
+  input-disabled-fill-color: transparent
+  input-label-ink-color: var(--primary-text-color)
+  input-disabled-ink-color: var(--disabled-text-color)
+  input-dropdown-icon-color: var(--primary-text-color)
+  input-idle-line-color: var(--secondary-text-color)
+  input-hover-line-color: var(--secondary-text-color)
+  codemirror-property: var(--accent-color)
