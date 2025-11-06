@@ -19,7 +19,7 @@ ios-light-mode-blue-red-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -132,7 +132,7 @@ ios-light-mode-blue-red:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -245,7 +245,7 @@ ios-dark-mode-blue-red-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -358,7 +358,7 @@ ios-dark-mode-blue-red:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -471,7 +471,7 @@ ios-light-mode-dark-blue-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -584,7 +584,7 @@ ios-light-mode-dark-blue:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -697,7 +697,7 @@ ios-dark-mode-dark-blue-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -810,7 +810,7 @@ ios-dark-mode-dark-blue:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -923,7 +923,7 @@ ios-light-mode-dark-green-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1036,7 +1036,7 @@ ios-light-mode-dark-green:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1149,7 +1149,7 @@ ios-dark-mode-dark-green-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1262,7 +1262,7 @@ ios-dark-mode-dark-green:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1375,7 +1375,7 @@ ios-light-mode-light-blue-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1488,7 +1488,7 @@ ios-light-mode-light-blue:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1601,7 +1601,7 @@ ios-dark-mode-light-blue-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1714,7 +1714,7 @@ ios-dark-mode-light-blue:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1827,7 +1827,7 @@ ios-light-mode-light-green-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -1940,7 +1940,7 @@ ios-light-mode-light-green:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2053,7 +2053,7 @@ ios-dark-mode-light-green-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2166,7 +2166,7 @@ ios-dark-mode-light-green:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2279,7 +2279,7 @@ ios-light-mode-orange-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2392,7 +2392,7 @@ ios-light-mode-orange:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2505,7 +2505,7 @@ ios-dark-mode-orange-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2618,7 +2618,7 @@ ios-dark-mode-orange:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2731,7 +2731,7 @@ ios-light-mode-red-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2844,7 +2844,7 @@ ios-light-mode-red:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -2957,7 +2957,7 @@ ios-dark-mode-red-alternative:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
@@ -3070,7 +3070,7 @@ ios-dark-mode-red:
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.15)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.85)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)

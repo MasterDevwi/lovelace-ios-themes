@@ -76,8 +76,8 @@ wa_color_brand_fill_loud:
   dark: rgb(3, 169, 244)
   light: rgb(3, 169, 244)
 wa_color_brand_fill_normal:
-  dark: rgba(3, 169, 244, 0.85)
-  light: rgba(3, 169, 244, 0.85)
+  dark: rgba(3, 169, 244, 0.5)
+  light: rgba(3, 169, 244, 0.5)
 wa_color_brand_fill_quiet:
   dark: rgba(3, 169, 244, 0.15)
   light: rgba(3, 169, 244, 0.15)
