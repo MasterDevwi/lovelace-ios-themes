@@ -59,6 +59,7 @@ ios-light-mode-blue-red-alternative:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -188,6 +189,7 @@ ios-light-mode-blue-red:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -314,9 +316,10 @@ ios-dark-mode-blue-red-alternative:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -443,9 +446,10 @@ ios-dark-mode-blue-red:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -575,6 +579,7 @@ ios-light-mode-dark-blue-alternative:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -704,6 +709,7 @@ ios-light-mode-dark-blue:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -830,9 +836,10 @@ ios-dark-mode-dark-blue-alternative:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -959,9 +966,10 @@ ios-dark-mode-dark-blue:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -1091,6 +1099,7 @@ ios-light-mode-dark-green-alternative:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -1220,6 +1229,7 @@ ios-light-mode-dark-green:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -1346,9 +1356,10 @@ ios-dark-mode-dark-green-alternative:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -1475,9 +1486,10 @@ ios-dark-mode-dark-green:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -1607,6 +1619,7 @@ ios-light-mode-light-blue-alternative:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -1736,6 +1749,7 @@ ios-light-mode-light-blue:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -1862,9 +1876,10 @@ ios-dark-mode-light-blue-alternative:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -1991,9 +2006,10 @@ ios-dark-mode-light-blue:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -2123,6 +2139,7 @@ ios-light-mode-light-green-alternative:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -2252,6 +2269,7 @@ ios-light-mode-light-green:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -2378,9 +2396,10 @@ ios-dark-mode-light-green-alternative:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -2507,9 +2526,10 @@ ios-dark-mode-light-green:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -2639,6 +2659,7 @@ ios-light-mode-orange-alternative:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -2768,6 +2789,7 @@ ios-light-mode-orange:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -2894,9 +2916,10 @@ ios-dark-mode-orange-alternative:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -3023,9 +3046,10 @@ ios-dark-mode-orange:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -3155,6 +3179,7 @@ ios-light-mode-red-alternative:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -3284,6 +3309,7 @@ ios-light-mode-red:
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
+  ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -3410,9 +3436,10 @@ ios-dark-mode-red-alternative:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
@@ -3539,9 +3566,10 @@ ios-dark-mode-red:
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
-  wa-color-neutral-fill-normal: rgba(60, 60, 60, 1)
+  wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
-  ha-color-fill-neutral-normal-resting: rgba(60, 60, 60, 1)
+  ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
+  ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)

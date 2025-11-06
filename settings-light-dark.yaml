@@ -130,14 +130,17 @@ md_sys_color_on_surface_variant:
   light: rgb(3, 169, 244)
 # Neutral fills for unselected toggle buttons
 wa_color_neutral_fill_normal:
-  dark: rgba(60, 60, 60, 1)
+  dark: rgba(30, 30, 30, 1)
   light: rgba(230, 230, 230, 1)
 wa_color_neutral_on_normal:
   dark: rgba(200, 200, 200, 1)
   light: rgba(80, 80, 80, 1)
 ha_color_fill_neutral_normal_resting:
-  dark: rgba(60, 60, 60, 1)
+  dark: rgba(30, 30, 30, 1)
   light: rgba(230, 230, 230, 1)
+ha_color_fill_neutral_normal_hover:
+  dark: rgba(60, 60, 60, 1)
+  light: rgba(220, 220, 220, 1)
 ha_color_on_neutral_normal_resting:
   dark: rgba(200, 200, 200, 1)
   light: rgba(80, 80, 80, 1)
