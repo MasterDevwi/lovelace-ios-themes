@@ -62,6 +62,10 @@ ios-light-mode-blue-red-alternative:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -199,6 +203,10 @@ ios-light-mode-blue-red:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -336,6 +344,10 @@ ios-dark-mode-blue-red-alternative:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -473,6 +485,10 @@ ios-dark-mode-blue-red:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -610,6 +626,10 @@ ios-light-mode-dark-blue-alternative:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -747,6 +767,10 @@ ios-light-mode-dark-blue:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -884,6 +908,10 @@ ios-dark-mode-dark-blue-alternative:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -1021,6 +1049,10 @@ ios-dark-mode-dark-blue:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -1158,6 +1190,10 @@ ios-light-mode-dark-green-alternative:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -1295,6 +1331,10 @@ ios-light-mode-dark-green:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -1432,6 +1472,10 @@ ios-dark-mode-dark-green-alternative:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -1569,6 +1613,10 @@ ios-dark-mode-dark-green:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -1706,6 +1754,10 @@ ios-light-mode-light-blue-alternative:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -1843,6 +1895,10 @@ ios-light-mode-light-blue:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -1980,6 +2036,10 @@ ios-dark-mode-light-blue-alternative:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -2117,6 +2177,10 @@ ios-dark-mode-light-blue:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -2254,6 +2318,10 @@ ios-light-mode-light-green-alternative:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -2391,6 +2459,10 @@ ios-light-mode-light-green:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -2528,6 +2600,10 @@ ios-dark-mode-light-green-alternative:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -2665,6 +2741,10 @@ ios-dark-mode-light-green:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -2802,6 +2882,10 @@ ios-light-mode-orange-alternative:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -2939,6 +3023,10 @@ ios-light-mode-orange:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -3076,6 +3164,10 @@ ios-dark-mode-orange-alternative:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -3213,6 +3305,10 @@ ios-dark-mode-orange:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -3350,6 +3446,10 @@ ios-light-mode-red-alternative:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -3487,6 +3587,10 @@ ios-light-mode-red:
   mdc-theme-text-primary-on-background: black
   ha-card-header-color: black
   app-header-text-color: black
+  mdc-theme-text-primary: black
+  ha-color-text-primary: black
+  ha-color-on-surface: black
+  mdc-typography-headline6-color: black
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(230, 230, 230, 1)
   wa-color-neutral-on-normal: rgba(80, 80, 80, 1)
@@ -3624,6 +3728,10 @@ ios-dark-mode-red-alternative:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)
@@ -3761,6 +3869,10 @@ ios-dark-mode-red:
   mdc-theme-text-primary-on-background: white
   ha-card-header-color: white
   app-header-text-color: white
+  mdc-theme-text-primary: white
+  ha-color-text-primary: white
+  ha-color-on-surface: white
+  mdc-typography-headline6-color: white
   # Neutral fills for unselected toggle buttons
   wa-color-neutral-fill-normal: rgba(30, 30, 30, 1)
   wa-color-neutral-on-normal: rgba(200, 200, 200, 1)

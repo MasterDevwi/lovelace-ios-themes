@@ -150,6 +150,18 @@ ha_card_header_color:
 app_header_text_color:
   dark: white
   light: black
+mdc_theme_text_primary:
+  dark: white
+  light: black
+ha_color_text_primary:
+  dark: white
+  light: black
+ha_color_on_surface:
+  dark: white
+  light: black
+mdc_typography_headline6_color:
+  dark: white
+  light: black
 # Neutral fills for unselected toggle buttons
 wa_color_neutral_fill_normal:
   dark: rgba(30, 30, 30, 1)
