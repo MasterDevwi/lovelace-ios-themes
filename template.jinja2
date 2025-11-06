@@ -32,12 +32,13 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: var(--wa-color-brand-on-normal)
+  wa-color-on-normal: {{ wa_color_on_normal_plain }}
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: {{ primary_text_color }}
   secondary-text-color: {{ secondary_text_color }}
   ha-color-text-secondary: {{ ha_color_text_secondary }}
+  ha-color-fill-neutral-loud-resting: {{ ha_color_fill_neutral_loud_resting }}
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"

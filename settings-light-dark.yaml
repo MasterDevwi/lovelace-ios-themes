@@ -43,6 +43,9 @@ secondary_text_color:
 ha_color_text_secondary:
   dark: '#e8e8e8'
   light: '#727272'
+ha_color_fill_neutral_loud_resting:
+  dark: rgba(94, 94, 94, 1)
+  light: rgba(230, 230, 230, 1)
 sidebar_selected_icon_color:
   dark: '#FFF'
   light: '#8e8e93'
@@ -96,3 +99,6 @@ wa_color_brand_on_normal:
 wa_color_brand_on_quiet:
   dark: white
   light: white
+wa_color_on_normal_plain:
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
