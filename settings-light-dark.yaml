@@ -58,3 +58,6 @@ markdown_code_background_color:
 code_editor_background_color:
   dark: '#161616'
   light: '#FFF'
+ha_color_fill_primary_quiet_resting:
+  dark: rgba(255, 159, 9, 0.15)
+  light: rgba(255, 148, 9, 0.15)

@@ -11,6 +11,12 @@ ios-{{ which }}-mode-{{ color }}{{ suffix }}:
   secondary-background-color: {{ secondary_background_color }}
   divider-color: {{ divider_color }}  # from Apple systemGray {{ which }} mode
   accent-color: rgba(255, 159, 9, 1)
+  # Button Colors (HA 2025.x)
+  ha-color-fill-primary-loud-active: var(--primary-color)
+  ha-color-fill-primary-loud-hover: var(--primary-color)
+  ha-color-fill-primary-quiet-resting: {{ ha_color_fill_primary_quiet_resting }}
+  button-color-fill-loud-active: var(--ha-color-fill-primary-loud-active)
+  button-color-fill-loud-hover: var(--ha-color-fill-primary-loud-hover)
   # Text
   primary-text-color: {{ primary_text_color }}
   secondary-text-color: {{ secondary_text_color }}
