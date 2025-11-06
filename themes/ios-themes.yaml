@@ -18,20 +18,20 @@ ios-light-mode-blue-red-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -46,8 +46,8 @@ ios-light-mode-blue-red-alternative:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -148,20 +148,20 @@ ios-light-mode-blue-red:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -176,8 +176,8 @@ ios-light-mode-blue-red:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -538,20 +538,20 @@ ios-light-mode-dark-blue-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -566,8 +566,8 @@ ios-light-mode-dark-blue-alternative:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -668,20 +668,20 @@ ios-light-mode-dark-blue:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -696,8 +696,8 @@ ios-light-mode-dark-blue:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -1058,20 +1058,20 @@ ios-light-mode-dark-green-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1086,8 +1086,8 @@ ios-light-mode-dark-green-alternative:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -1188,20 +1188,20 @@ ios-light-mode-dark-green:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1216,8 +1216,8 @@ ios-light-mode-dark-green:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -1578,20 +1578,20 @@ ios-light-mode-light-blue-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1606,8 +1606,8 @@ ios-light-mode-light-blue-alternative:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -1708,20 +1708,20 @@ ios-light-mode-light-blue:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1736,8 +1736,8 @@ ios-light-mode-light-blue:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -2098,20 +2098,20 @@ ios-light-mode-light-green-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2126,8 +2126,8 @@ ios-light-mode-light-green-alternative:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -2228,20 +2228,20 @@ ios-light-mode-light-green:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2256,8 +2256,8 @@ ios-light-mode-light-green:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -2618,20 +2618,20 @@ ios-light-mode-orange-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2646,8 +2646,8 @@ ios-light-mode-orange-alternative:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -2748,20 +2748,20 @@ ios-light-mode-orange:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2776,8 +2776,8 @@ ios-light-mode-orange:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -3138,20 +3138,20 @@ ios-light-mode-red-alternative:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -3166,8 +3166,8 @@ ios-light-mode-red-alternative:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
@@ -3268,20 +3268,20 @@ ios-light-mode-red:
   # Button and Gradient Colors (HA default blue)
   rgb-primary-color: 3, 169, 244
   ha-color-fill-primary-quiet-resting: rgba(3, 169, 244, 0.05)
-  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.5)
-  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.55)
-  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.5)
-  ha-color-on-primary-normal: rgb(100, 220, 255)
+  ha-color-fill-primary-normal-resting: rgba(3, 169, 244, 0.25)
+  ha-color-fill-primary-normal-hover: rgba(3, 169, 244, 0.3)
+  ha-color-fill-primary-normal-active: rgba(3, 169, 244, 0.25)
+  ha-color-on-primary-normal: rgb(0, 110, 165)
   wa-color-brand-fill-loud: rgb(3, 169, 244)
-  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.5)
+  wa-color-brand-fill-normal: rgba(3, 169, 244, 0.25)
   wa-color-brand-fill-quiet: rgba(3, 169, 244, 0.15)
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
   wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: rgb(100, 220, 255)
-  wa-color-brand-on-quiet: rgb(100, 220, 255)
-  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.55)
+  wa-color-brand-on-normal: rgb(0, 110, 165)
+  wa-color-brand-on-quiet: rgb(0, 110, 165)
+  wa-color-brand-fill-normal-hover: rgba(3, 169, 244, 0.3)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -3296,8 +3296,8 @@ ios-light-mode-red:
   primary-text-color: "#464a47"
   secondary-text-color: "#000000"
   ha-color-text-secondary: "#727272"
-  ha-color-fill-neutral-loud-resting: rgba(230, 230, 230, 1)
-  text-primary-color: "#FFF"
+  ha-color-fill-neutral-loud-resting: rgba(80, 80, 80, 1)
+  text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
   # Dialog and list variables
