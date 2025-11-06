@@ -24,9 +24,9 @@ ios-light-mode-blue-red-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -34,7 +34,7 @@ ios-light-mode-blue-red-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -137,9 +137,9 @@ ios-light-mode-blue-red:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -147,7 +147,7 @@ ios-light-mode-blue-red:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -250,9 +250,9 @@ ios-dark-mode-blue-red-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -260,7 +260,7 @@ ios-dark-mode-blue-red-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -363,9 +363,9 @@ ios-dark-mode-blue-red:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -373,7 +373,7 @@ ios-dark-mode-blue-red:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -476,9 +476,9 @@ ios-light-mode-dark-blue-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -486,7 +486,7 @@ ios-light-mode-dark-blue-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -589,9 +589,9 @@ ios-light-mode-dark-blue:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -599,7 +599,7 @@ ios-light-mode-dark-blue:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -702,9 +702,9 @@ ios-dark-mode-dark-blue-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -712,7 +712,7 @@ ios-dark-mode-dark-blue-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -815,9 +815,9 @@ ios-dark-mode-dark-blue:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -825,7 +825,7 @@ ios-dark-mode-dark-blue:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -928,9 +928,9 @@ ios-light-mode-dark-green-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -938,7 +938,7 @@ ios-light-mode-dark-green-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -1041,9 +1041,9 @@ ios-light-mode-dark-green:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1051,7 +1051,7 @@ ios-light-mode-dark-green:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -1154,9 +1154,9 @@ ios-dark-mode-dark-green-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1164,7 +1164,7 @@ ios-dark-mode-dark-green-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -1267,9 +1267,9 @@ ios-dark-mode-dark-green:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1277,7 +1277,7 @@ ios-dark-mode-dark-green:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -1380,9 +1380,9 @@ ios-light-mode-light-blue-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1390,7 +1390,7 @@ ios-light-mode-light-blue-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -1493,9 +1493,9 @@ ios-light-mode-light-blue:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1503,7 +1503,7 @@ ios-light-mode-light-blue:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -1606,9 +1606,9 @@ ios-dark-mode-light-blue-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1616,7 +1616,7 @@ ios-dark-mode-light-blue-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -1719,9 +1719,9 @@ ios-dark-mode-light-blue:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1729,7 +1729,7 @@ ios-dark-mode-light-blue:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -1832,9 +1832,9 @@ ios-light-mode-light-green-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1842,7 +1842,7 @@ ios-light-mode-light-green-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -1945,9 +1945,9 @@ ios-light-mode-light-green:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -1955,7 +1955,7 @@ ios-light-mode-light-green:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -2058,9 +2058,9 @@ ios-dark-mode-light-green-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2068,7 +2068,7 @@ ios-dark-mode-light-green-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -2171,9 +2171,9 @@ ios-dark-mode-light-green:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2181,7 +2181,7 @@ ios-dark-mode-light-green:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -2284,9 +2284,9 @@ ios-light-mode-orange-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2294,7 +2294,7 @@ ios-light-mode-orange-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -2397,9 +2397,9 @@ ios-light-mode-orange:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2407,7 +2407,7 @@ ios-light-mode-orange:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -2510,9 +2510,9 @@ ios-dark-mode-orange-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2520,7 +2520,7 @@ ios-dark-mode-orange-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -2623,9 +2623,9 @@ ios-dark-mode-orange:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2633,7 +2633,7 @@ ios-dark-mode-orange:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -2736,9 +2736,9 @@ ios-light-mode-red-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2746,7 +2746,7 @@ ios-light-mode-red-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -2849,9 +2849,9 @@ ios-light-mode-red:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2859,7 +2859,7 @@ ios-light-mode-red:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#464a47"
@@ -2962,9 +2962,9 @@ ios-dark-mode-red-alternative:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -2972,7 +2972,7 @@ ios-dark-mode-red-alternative:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"
@@ -3075,9 +3075,9 @@ ios-dark-mode-red:
   wa-color-brand-border-loud: rgb(3, 169, 244)
   wa-color-brand-border-normal: rgb(3, 169, 244)
   wa-color-brand-border-quiet: rgba(3, 169, 244, 0.5)
-  wa-color-brand-on-loud: white
-  wa-color-brand-on-normal: white
-  wa-color-brand-on-quiet: white
+  wa-color-brand-on-loud: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-normal: rgba(3, 169, 244, 0.2)
+  wa-color-brand-on-quiet: rgb(3, 169, 244)
   wa-color-fill-loud: var(--wa-color-brand-fill-loud)
   wa-color-fill-normal: var(--wa-color-brand-fill-normal)
   wa-color-fill-quiet: var(--wa-color-brand-fill-quiet)
@@ -3085,7 +3085,7 @@ ios-dark-mode-red:
   wa-color-border-normal: var(--wa-color-brand-border-normal)
   wa-color-border-quiet: var(--wa-color-brand-border-quiet)
   wa-color-on-loud: var(--wa-color-brand-on-loud)
-  wa-color-on-normal: rgb(3, 169, 244)
+  wa-color-on-normal: var(--wa-color-brand-on-normal)
   wa-color-on-quiet: var(--wa-color-brand-on-quiet)
   # Text
   primary-text-color: "#FFF"

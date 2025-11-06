@@ -91,14 +91,14 @@ wa_color_brand_border_quiet:
   dark: rgba(3, 169, 244, 0.5)
   light: rgba(3, 169, 244, 0.5)
 wa_color_brand_on_loud:
-  dark: white
-  light: white
+  dark: rgba(3, 169, 244, 0.2)
+  light: rgba(3, 169, 244, 0.2)
 wa_color_brand_on_normal:
-  dark: white
-  light: white
+  dark: rgba(3, 169, 244, 0.2)
+  light: rgba(3, 169, 244, 0.2)
 wa_color_brand_on_quiet:
-  dark: white
-  light: white
+  dark: rgb(3, 169, 244)
+  light: rgb(3, 169, 244)
 wa_color_on_normal_plain:
   dark: rgb(3, 169, 244)
   light: rgb(3, 169, 244)
