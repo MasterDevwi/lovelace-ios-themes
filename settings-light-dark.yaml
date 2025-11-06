@@ -45,7 +45,7 @@ ha_color_text_secondary:
   light: '#727272'
 ha_color_fill_neutral_loud_resting:
   dark: rgba(94, 94, 94, 1)
-  light: rgba(230, 230, 230, 1)
+  light: rgba(80, 80, 80, 1)
 sidebar_selected_icon_color:
   dark: '#FFF'
   light: '#8e8e93'
@@ -77,7 +77,7 @@ wa_color_brand_fill_loud:
   light: rgb(3, 169, 244)
 wa_color_brand_fill_normal:
   dark: rgba(3, 169, 244, 0.5)
-  light: rgba(3, 169, 244, 0.85)
+  light: rgba(3, 169, 244, 0.25)
 wa_color_brand_fill_quiet:
   dark: rgba(3, 169, 244, 0.15)
   light: rgba(3, 169, 244, 0.15)
@@ -95,26 +95,26 @@ wa_color_brand_on_loud:
   light: white
 wa_color_brand_on_normal:
   dark: rgb(100, 220, 255)
-  light: rgb(0, 90, 130)
+  light: rgb(3, 169, 244)
 wa_color_brand_on_quiet:
   dark: rgb(100, 220, 255)
-  light: rgb(0, 90, 130)
+  light: rgb(3, 169, 244)
 # Resting and hover states
 ha_color_fill_primary_normal_resting:
   dark: rgba(3, 169, 244, 0.5)
-  light: rgba(3, 169, 244, 0.85)
+  light: rgba(3, 169, 244, 0.25)
 wa_color_brand_fill_normal_hover:
   dark: rgba(3, 169, 244, 0.55)
-  light: rgba(3, 169, 244, 0.9)
+  light: rgba(3, 169, 244, 0.3)
 ha_color_fill_primary_normal_hover:
   dark: rgba(3, 169, 244, 0.55)
-  light: rgba(3, 169, 244, 0.9)
+  light: rgba(3, 169, 244, 0.3)
 ha_color_fill_primary_normal_active:
   dark: rgba(3, 169, 244, 0.5)
-  light: rgba(3, 169, 244, 0.85)
+  light: rgba(3, 169, 244, 0.25)
 ha_color_on_primary_normal:
   dark: rgb(100, 220, 255)
-  light: rgb(0, 90, 130)
+  light: rgb(3, 169, 244)
 # Dialog and list variables
 ha_color_fill_neutral_quiet_resting:
   dark: rgba(40, 40, 40, 1)
@@ -124,12 +124,18 @@ ha_color_surface_default:
   light: rgba(250, 250, 250, 1)
 md_list_item_leading_icon_color:
   dark: rgb(3, 169, 244)
-  light: rgb(80, 80, 80)
+  light: rgb(3, 169, 244)
 md_sys_color_on_surface_variant:
   dark: rgb(3, 169, 244)
-  light: rgb(80, 80, 80)
+  light: rgb(3, 169, 244)
 # Header title color
 ha_dialog_header_title_color:
+  dark: white
+  light: black
+card_primary_color:
+  dark: white
+  light: black
+mdc_theme_on_surface:
   dark: white
   light: black
 # Neutral fills for unselected toggle buttons
