@@ -121,6 +121,9 @@ ios-light-mode-blue-red-alternative:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -263,6 +266,9 @@ ios-light-mode-blue-red:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -405,6 +411,9 @@ ios-dark-mode-blue-red-alternative:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -547,6 +556,9 @@ ios-dark-mode-blue-red:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -689,6 +701,9 @@ ios-light-mode-dark-blue-alternative:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -831,6 +846,9 @@ ios-light-mode-dark-blue:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -973,6 +991,9 @@ ios-dark-mode-dark-blue-alternative:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1115,6 +1136,9 @@ ios-dark-mode-dark-blue:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1257,6 +1281,9 @@ ios-light-mode-dark-green-alternative:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1399,6 +1426,9 @@ ios-light-mode-dark-green:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1541,6 +1571,9 @@ ios-dark-mode-dark-green-alternative:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1683,6 +1716,9 @@ ios-dark-mode-dark-green:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1825,6 +1861,9 @@ ios-light-mode-light-blue-alternative:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1967,6 +2006,9 @@ ios-light-mode-light-blue:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2109,6 +2151,9 @@ ios-dark-mode-light-blue-alternative:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2251,6 +2296,9 @@ ios-dark-mode-light-blue:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2393,6 +2441,9 @@ ios-light-mode-light-green-alternative:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2535,6 +2586,9 @@ ios-light-mode-light-green:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2677,6 +2731,9 @@ ios-dark-mode-light-green-alternative:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2819,6 +2876,9 @@ ios-dark-mode-light-green:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2961,6 +3021,9 @@ ios-light-mode-orange-alternative:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3103,6 +3166,9 @@ ios-light-mode-orange:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3245,6 +3311,9 @@ ios-dark-mode-orange-alternative:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3387,6 +3456,9 @@ ios-dark-mode-orange:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3529,6 +3601,9 @@ ios-light-mode-red-alternative:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3671,6 +3746,9 @@ ios-light-mode-red:
   # Other
   paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
   paper-dialog-color: black
+  mdc-dialog-content-ink-color: black
+  mdc-dialog-heading-ink-color: black
+  dialog-color: black
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3813,6 +3891,9 @@ ios-dark-mode-red-alternative:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3955,6 +4036,9 @@ ios-dark-mode-red:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
   paper-dialog-color: white
+  mdc-dialog-content-ink-color: white
+  mdc-dialog-heading-ink-color: white
+  dialog-color: white
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)

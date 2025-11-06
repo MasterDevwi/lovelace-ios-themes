@@ -22,6 +22,15 @@ paper_dialog_background_color:
 paper_dialog_color:
   dark: white
   light: black
+mdc_dialog_content_ink_color:
+  dark: white
+  light: black
+mdc_dialog_heading_ink_color:
+  dark: white
+  light: black
+dialog_color:
+  dark: white
+  light: black
 paper_item_icon_color:
   dark: white
   light: '#333333'
