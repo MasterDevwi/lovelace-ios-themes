@@ -123,8 +123,8 @@ ha_color_fill_neutral_quiet_resting:
   dark: rgba(40, 40, 40, 1)
   light: rgba(240, 240, 240, 1)
 ha_color_surface_default:
-  dark: rgba(30, 30, 30, 1)
-  light: rgba(250, 250, 250, 1)
+  dark: rgba(30, 30, 30, 0.85)
+  light: rgba(250, 250, 250, 0.85)
 md_list_item_leading_icon_color:
   dark: rgb(3, 169, 244)
   light: rgb(3, 169, 244)

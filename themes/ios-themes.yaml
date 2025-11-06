@@ -52,7 +52,7 @@ ios-light-mode-blue-red-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -182,7 +182,7 @@ ios-light-mode-blue-red:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -312,7 +312,7 @@ ios-dark-mode-blue-red-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -442,7 +442,7 @@ ios-dark-mode-blue-red:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -572,7 +572,7 @@ ios-light-mode-dark-blue-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -702,7 +702,7 @@ ios-light-mode-dark-blue:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -832,7 +832,7 @@ ios-dark-mode-dark-blue-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -962,7 +962,7 @@ ios-dark-mode-dark-blue:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -1092,7 +1092,7 @@ ios-light-mode-dark-green-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -1222,7 +1222,7 @@ ios-light-mode-dark-green:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -1352,7 +1352,7 @@ ios-dark-mode-dark-green-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -1482,7 +1482,7 @@ ios-dark-mode-dark-green:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -1612,7 +1612,7 @@ ios-light-mode-light-blue-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -1742,7 +1742,7 @@ ios-light-mode-light-blue:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -1872,7 +1872,7 @@ ios-dark-mode-light-blue-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -2002,7 +2002,7 @@ ios-dark-mode-light-blue:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -2132,7 +2132,7 @@ ios-light-mode-light-green-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -2262,7 +2262,7 @@ ios-light-mode-light-green:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -2392,7 +2392,7 @@ ios-dark-mode-light-green-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -2522,7 +2522,7 @@ ios-dark-mode-light-green:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -2652,7 +2652,7 @@ ios-light-mode-orange-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -2782,7 +2782,7 @@ ios-light-mode-orange:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -2912,7 +2912,7 @@ ios-dark-mode-orange-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -3042,7 +3042,7 @@ ios-dark-mode-orange:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -3172,7 +3172,7 @@ ios-light-mode-red-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -3302,7 +3302,7 @@ ios-light-mode-red:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
-  ha-color-surface-default: rgba(250, 250, 250, 1)
+  ha-color-surface-default: rgba(250, 250, 250, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -3432,7 +3432,7 @@ ios-dark-mode-red-alternative:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
@@ -3562,7 +3562,7 @@ ios-dark-mode-red:
   text-dark-color: "#FFF"
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
-  ha-color-surface-default: rgba(30, 30, 30, 1)
+  ha-color-surface-default: rgba(30, 30, 30, 0.85)
   md-list-item-leading-icon-color: rgb(3, 169, 244)
   md-sys-color-on-surface-variant: rgb(3, 169, 244)
   # Neutral fills for unselected toggle buttons
