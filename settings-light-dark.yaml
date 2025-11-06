@@ -31,24 +31,15 @@ primary_background_color:
 primary_color:
   dark: '#ff9f09'
   light: '#ff9409'
-rgb_primary_color:
-  dark: 255, 159, 9
-  light: 255, 148, 9
 primary_text_color:
   dark: '#FFF'
   light: '#464a47'
-rgb_primary_text_color:
-  dark: 255, 255, 255
-  light: 70, 74, 71
 secondary_background_color:
   dark: rgba(25, 25, 25, 0.9)
   light: rgba(255, 255, 255, 0.9)
 secondary_text_color:
   dark: '#d3d3d3'
   light: '#000000'
-rgb_secondary_text_color:
-  dark: 211, 211, 211
-  light: 0, 0, 0
 sidebar_selected_icon_color:
   dark: '#FFF'
   light: '#8e8e93'
