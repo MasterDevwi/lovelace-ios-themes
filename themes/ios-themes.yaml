@@ -7,12 +7,12 @@ ios-light-mode-blue-red-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -50,6 +50,10 @@ ios-light-mode-blue-red-alternative:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -61,6 +65,7 @@ ios-light-mode-blue-red-alternative:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -77,7 +82,7 @@ ios-light-mode-blue-red-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -85,9 +90,9 @@ ios-light-mode-blue-red-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -105,10 +110,10 @@ ios-light-mode-blue-red-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -137,12 +142,12 @@ ios-light-mode-blue-red:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -180,6 +185,10 @@ ios-light-mode-blue-red:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -191,6 +200,7 @@ ios-light-mode-blue-red:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -207,7 +217,7 @@ ios-light-mode-blue-red:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -215,9 +225,9 @@ ios-light-mode-blue-red:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -235,10 +245,10 @@ ios-light-mode-blue-red:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -267,12 +277,12 @@ ios-dark-mode-blue-red-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -310,6 +320,10 @@ ios-dark-mode-blue-red-alternative:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -321,6 +335,7 @@ ios-dark-mode-blue-red-alternative:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -337,7 +352,7 @@ ios-dark-mode-blue-red-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -345,9 +360,9 @@ ios-dark-mode-blue-red-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -365,10 +380,10 @@ ios-dark-mode-blue-red-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -397,12 +412,12 @@ ios-dark-mode-blue-red:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -440,6 +455,10 @@ ios-dark-mode-blue-red:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -451,6 +470,7 @@ ios-dark-mode-blue-red:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -467,7 +487,7 @@ ios-dark-mode-blue-red:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -475,9 +495,9 @@ ios-dark-mode-blue-red:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -495,10 +515,10 @@ ios-dark-mode-blue-red:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -527,12 +547,12 @@ ios-light-mode-dark-blue-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-dark-blue.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -570,6 +590,10 @@ ios-light-mode-dark-blue-alternative:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -581,6 +605,7 @@ ios-light-mode-dark-blue-alternative:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -597,7 +622,7 @@ ios-light-mode-dark-blue-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -605,9 +630,9 @@ ios-light-mode-dark-blue-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -625,10 +650,10 @@ ios-light-mode-dark-blue-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -657,12 +682,12 @@ ios-light-mode-dark-blue:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-dark-blue.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -700,6 +725,10 @@ ios-light-mode-dark-blue:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -711,6 +740,7 @@ ios-light-mode-dark-blue:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -727,7 +757,7 @@ ios-light-mode-dark-blue:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -735,9 +765,9 @@ ios-light-mode-dark-blue:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -755,10 +785,10 @@ ios-light-mode-dark-blue:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -787,12 +817,12 @@ ios-dark-mode-dark-blue-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-dark-blue.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -830,6 +860,10 @@ ios-dark-mode-dark-blue-alternative:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -841,6 +875,7 @@ ios-dark-mode-dark-blue-alternative:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -857,7 +892,7 @@ ios-dark-mode-dark-blue-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -865,9 +900,9 @@ ios-dark-mode-dark-blue-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -885,10 +920,10 @@ ios-dark-mode-dark-blue-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -917,12 +952,12 @@ ios-dark-mode-dark-blue:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-dark-blue.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -960,6 +995,10 @@ ios-dark-mode-dark-blue:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -971,6 +1010,7 @@ ios-dark-mode-dark-blue:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -987,7 +1027,7 @@ ios-dark-mode-dark-blue:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -995,9 +1035,9 @@ ios-dark-mode-dark-blue:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1015,10 +1055,10 @@ ios-dark-mode-dark-blue:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1047,12 +1087,12 @@ ios-light-mode-dark-green-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-dark-green.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -1090,6 +1130,10 @@ ios-light-mode-dark-green-alternative:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -1101,6 +1145,7 @@ ios-light-mode-dark-green-alternative:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -1117,7 +1162,7 @@ ios-light-mode-dark-green-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -1125,9 +1170,9 @@ ios-light-mode-dark-green-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1145,10 +1190,10 @@ ios-light-mode-dark-green-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1177,12 +1222,12 @@ ios-light-mode-dark-green:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-dark-green.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -1220,6 +1265,10 @@ ios-light-mode-dark-green:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -1231,6 +1280,7 @@ ios-light-mode-dark-green:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -1247,7 +1297,7 @@ ios-light-mode-dark-green:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -1255,9 +1305,9 @@ ios-light-mode-dark-green:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1275,10 +1325,10 @@ ios-light-mode-dark-green:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1307,12 +1357,12 @@ ios-dark-mode-dark-green-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-dark-green.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -1350,6 +1400,10 @@ ios-dark-mode-dark-green-alternative:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -1361,6 +1415,7 @@ ios-dark-mode-dark-green-alternative:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -1377,7 +1432,7 @@ ios-dark-mode-dark-green-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -1385,9 +1440,9 @@ ios-dark-mode-dark-green-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1405,10 +1460,10 @@ ios-dark-mode-dark-green-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1437,12 +1492,12 @@ ios-dark-mode-dark-green:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-dark-green.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -1480,6 +1535,10 @@ ios-dark-mode-dark-green:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -1491,6 +1550,7 @@ ios-dark-mode-dark-green:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -1507,7 +1567,7 @@ ios-dark-mode-dark-green:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -1515,9 +1575,9 @@ ios-dark-mode-dark-green:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1535,10 +1595,10 @@ ios-dark-mode-dark-green:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1567,12 +1627,12 @@ ios-light-mode-light-blue-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-light-blue.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -1610,6 +1670,10 @@ ios-light-mode-light-blue-alternative:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -1621,6 +1685,7 @@ ios-light-mode-light-blue-alternative:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -1637,7 +1702,7 @@ ios-light-mode-light-blue-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -1645,9 +1710,9 @@ ios-light-mode-light-blue-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1665,10 +1730,10 @@ ios-light-mode-light-blue-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1697,12 +1762,12 @@ ios-light-mode-light-blue:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-light-blue.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -1740,6 +1805,10 @@ ios-light-mode-light-blue:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -1751,6 +1820,7 @@ ios-light-mode-light-blue:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -1767,7 +1837,7 @@ ios-light-mode-light-blue:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -1775,9 +1845,9 @@ ios-light-mode-light-blue:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -1795,10 +1865,10 @@ ios-light-mode-light-blue:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1827,12 +1897,12 @@ ios-dark-mode-light-blue-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-light-blue.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -1870,6 +1940,10 @@ ios-dark-mode-light-blue-alternative:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -1881,6 +1955,7 @@ ios-dark-mode-light-blue-alternative:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -1897,7 +1972,7 @@ ios-dark-mode-light-blue-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -1905,9 +1980,9 @@ ios-dark-mode-light-blue-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -1925,10 +2000,10 @@ ios-dark-mode-light-blue-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -1957,12 +2032,12 @@ ios-dark-mode-light-blue:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-light-blue.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -2000,6 +2075,10 @@ ios-dark-mode-light-blue:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -2011,6 +2090,7 @@ ios-dark-mode-light-blue:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -2027,7 +2107,7 @@ ios-dark-mode-light-blue:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -2035,9 +2115,9 @@ ios-dark-mode-light-blue:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -2055,10 +2135,10 @@ ios-dark-mode-light-blue:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2087,12 +2167,12 @@ ios-light-mode-light-green-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-light-green.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -2130,6 +2210,10 @@ ios-light-mode-light-green-alternative:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -2141,6 +2225,7 @@ ios-light-mode-light-green-alternative:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -2157,7 +2242,7 @@ ios-light-mode-light-green-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -2165,9 +2250,9 @@ ios-light-mode-light-green-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -2185,10 +2270,10 @@ ios-light-mode-light-green-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2217,12 +2302,12 @@ ios-light-mode-light-green:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-light-green.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -2260,6 +2345,10 @@ ios-light-mode-light-green:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -2271,6 +2360,7 @@ ios-light-mode-light-green:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -2287,7 +2377,7 @@ ios-light-mode-light-green:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -2295,9 +2385,9 @@ ios-light-mode-light-green:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -2315,10 +2405,10 @@ ios-light-mode-light-green:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2347,12 +2437,12 @@ ios-dark-mode-light-green-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-light-green.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -2390,6 +2480,10 @@ ios-dark-mode-light-green-alternative:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -2401,6 +2495,7 @@ ios-dark-mode-light-green-alternative:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -2417,7 +2512,7 @@ ios-dark-mode-light-green-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -2425,9 +2520,9 @@ ios-dark-mode-light-green-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -2445,10 +2540,10 @@ ios-dark-mode-light-green-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2477,12 +2572,12 @@ ios-dark-mode-light-green:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-light-green.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -2520,6 +2615,10 @@ ios-dark-mode-light-green:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -2531,6 +2630,7 @@ ios-dark-mode-light-green:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -2547,7 +2647,7 @@ ios-dark-mode-light-green:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -2555,9 +2655,9 @@ ios-dark-mode-light-green:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -2575,10 +2675,10 @@ ios-dark-mode-light-green:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2607,12 +2707,12 @@ ios-light-mode-orange-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-orange.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -2650,6 +2750,10 @@ ios-light-mode-orange-alternative:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -2661,6 +2765,7 @@ ios-light-mode-orange-alternative:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -2677,7 +2782,7 @@ ios-light-mode-orange-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -2685,9 +2790,9 @@ ios-light-mode-orange-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -2705,10 +2810,10 @@ ios-light-mode-orange-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2737,12 +2842,12 @@ ios-light-mode-orange:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-orange.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -2780,6 +2885,10 @@ ios-light-mode-orange:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -2791,6 +2900,7 @@ ios-light-mode-orange:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -2807,7 +2917,7 @@ ios-light-mode-orange:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -2815,9 +2925,9 @@ ios-light-mode-orange:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -2835,10 +2945,10 @@ ios-light-mode-orange:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2867,12 +2977,12 @@ ios-dark-mode-orange-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-orange.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -2910,6 +3020,10 @@ ios-dark-mode-orange-alternative:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -2921,6 +3035,7 @@ ios-dark-mode-orange-alternative:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -2937,7 +3052,7 @@ ios-dark-mode-orange-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -2945,9 +3060,9 @@ ios-dark-mode-orange-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -2965,10 +3080,10 @@ ios-dark-mode-orange-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -2997,12 +3112,12 @@ ios-dark-mode-orange:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-orange.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -3040,6 +3155,10 @@ ios-dark-mode-orange:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -3051,6 +3170,7 @@ ios-dark-mode-orange:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -3067,7 +3187,7 @@ ios-dark-mode-orange:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -3075,9 +3195,9 @@ ios-dark-mode-orange:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -3095,10 +3215,10 @@ ios-dark-mode-orange:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3127,12 +3247,12 @@ ios-light-mode-red-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-red.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -3170,6 +3290,10 @@ ios-light-mode-red-alternative:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -3181,6 +3305,7 @@ ios-light-mode-red-alternative:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -3197,7 +3322,7 @@ ios-light-mode-red-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -3205,9 +3330,9 @@ ios-light-mode-red-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -3225,10 +3350,10 @@ ios-light-mode-red-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3257,12 +3382,12 @@ ios-light-mode-red:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-red.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#2c2c2e"  # (icons on left menu)
-  primary-background-color: "#e5e5ea"  # systemGray5 light mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#2c2c2e" # (icons on left menu)
+  primary-background-color: "#e5e5ea" # systemGray5 light mode
   secondary-background-color: rgba(255, 255, 255, 0.9)
-  divider-color: rgba(142, 142, 147, 0.3)  # from Apple systemGray light mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(142, 142, 147, 0.3) # from Apple systemGray light mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -3300,6 +3425,10 @@ ios-light-mode-red:
   text-primary-color: "#000000"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: rgba(80, 80, 80, 1) #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(240, 240, 240, 1)
   ha-color-surface-default: rgba(250, 250, 250, 0.85)
@@ -3311,6 +3440,7 @@ ios-light-mode-red:
   ha-color-fill-neutral-normal-resting: rgba(230, 230, 230, 1)
   ha-color-fill-neutral-normal-hover: rgba(220, 220, 220, 1)
   ha-color-on-neutral-normal-resting: rgba(80, 80, 80, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(234, 234, 234, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -3327,7 +3457,7 @@ ios-light-mode-red:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#007aff"  # from Apple systemBlue light mode
+  paper-slider-active-color: "#007aff" # from Apple systemBlue light mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -3335,9 +3465,9 @@ ios-light-mode-red:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(245, 245, 245, 0.4)
@@ -3355,10 +3485,10 @@ ios-light-mode-red:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#34c759"  # from Apple systemGreen light mode
+  switch-checked-track-color: "#34c759" # from Apple systemGreen light mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(200, 200, 200, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(200, 200, 200, 0.8) # e.g., background of more-info
   paper-item-icon-color: "#333333"
   more-info-header-background: rgba(230, 230, 230, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3387,12 +3517,12 @@ ios-dark-mode-red-alternative:
   # Global
   background-image: "center / cover no-repeat fixed url('/local/ios-themes/homekit-bg-red.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -3430,6 +3560,10 @@ ios-dark-mode-red-alternative:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -3441,6 +3575,7 @@ ios-dark-mode-red-alternative:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -3457,7 +3592,7 @@ ios-dark-mode-red-alternative:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -3465,9 +3600,9 @@ ios-dark-mode-red-alternative:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -3485,10 +3620,10 @@ ios-dark-mode-red-alternative:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
@@ -3517,12 +3652,12 @@ ios-dark-mode-red:
   # Global
   background-image: "center / cover no-repeat fixed url('https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@a37376d918fcfe4785be99910dc9a7200ac37da9/themes/homekit-bg-red.jpg')"
   lovelace-background: var(--background-image)
-  primary-color: "#03a9f4"  # HA default blue
-  light-primary-color: "#B6B6C1"  # (icons on left menu)
-  primary-background-color: "#2c2c2e"  # systemGray5 dark mode
+  primary-color: "#03a9f4" # HA default blue
+  light-primary-color: "#B6B6C1" # (icons on left menu)
+  primary-background-color: "#2c2c2e" # systemGray5 dark mode
   secondary-background-color: rgba(25, 25, 25, 0.9)
-  divider-color: rgba(152, 152, 157, 0.3)  # from Apple systemGray dark mode
-  accent-color: rgb(3, 169, 244)  # HA default blue
+  divider-color: rgba(152, 152, 157, 0.3) # from Apple systemGray dark mode
+  accent-color: rgb(3, 169, 244) # HA default blue
   # Border fix (gray instead of white)
   ha-color-border-neutral-quiet: rgba(152, 152, 152, 0.3)
   # Button and Gradient Colors (HA default blue)
@@ -3560,6 +3695,10 @@ ios-dark-mode-red:
   text-primary-color: "#FFF"
   disabled-text-color: "#555"
   text-dark-color: "#FFF"
+  wa-color-text-normal: "#FFF" #new
+  ha-color-on-neutral-normal: rgba(200, 200, 200, 1) #new
+  # Icons
+  ha-color-on-neutral-quiet: rgb(98, 169, 241) #new
   # Dialog and list variables
   ha-color-fill-neutral-quiet-resting: rgba(40, 40, 40, 1)
   ha-color-surface-default: rgba(30, 30, 30, 0.85)
@@ -3571,6 +3710,7 @@ ios-dark-mode-red:
   ha-color-fill-neutral-normal-resting: rgba(30, 30, 30, 1)
   ha-color-fill-neutral-normal-hover: rgba(60, 60, 60, 1)
   ha-color-on-neutral-normal-resting: rgba(200, 200, 200, 1)
+  ha-color-fill-neutral-quiet-hover: rgba(60, 60, 60, 1) #new
   # Sidebar Menu
   sidebar-background-color: var(--primary-background-color)
   sidebar-icon-color: var(--light-primary-color)
@@ -3587,7 +3727,7 @@ ios-dark-mode-red:
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: "#0984ff"  # from Apple systemBlue dark mode
+  paper-slider-active-color: "#0984ff" # from Apple systemBlue dark mode
   paper-slider-secondary-color: var(--paper-slider-knob-color)
   paper-slider-container-color: rgba(255, 255, 255, 0.5)
   paper-slider-font-color: "#000"
@@ -3595,9 +3735,9 @@ ios-dark-mode-red:
   # Labels
   label-badge-background-color: "#23232E"
   label-badge-text-color: "#F1F1F1"
-  label-badge-red: rgba(3, 169, 244, 0.7)  # HA default blue
+  label-badge-red: rgba(3, 169, 244, 0.7) # HA default blue
   # Cards
-  card-background-color: var(--secondary-background-color)  # Unused entities table background
+  card-background-color: var(--secondary-background-color) # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
@@ -3615,10 +3755,10 @@ ios-dark-mode-red:
   table-row-alternative-background-color: var(--secondary-background-color)
   # Switches
   switch-checked-color: "#30d257"
-  switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
+  switch-checked-track-color: "#30d158" # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.8)  # e.g., background of more-info
+  paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)
